@@ -20,6 +20,10 @@
 // Jan Tiemann <janhentie@web.de>
 
 
+//Test
+if true {};
+
+
 #define ELPP_THREAD_SAFE
 #define ELPP_NO_DEFAULT_LOG_FILE
 
