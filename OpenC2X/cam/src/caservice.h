@@ -55,9 +55,10 @@ struct CaServiceConfig {
 	int mMaxGpsAge;
 	int mMaxObd2Age;
 	double mThresholdRadiusForHeading;
-	bool mIsRSU;
-
-	void loadConfigXML(const std::string &filename) {
+	//bool mIsRSU;
+	int mTypeofStation;
+	
+void loadConfigXML(const std::string &filename) {
 		boost::property_tree::ptree pt;
 		read_xml(filename, pt);
 
@@ -66,7 +67,8 @@ struct CaServiceConfig {
 		mMaxGpsAge = pt.get("cam.maxGpsAge", 10);
 		mMaxObd2Age = pt.get("cam.maxObd2Age", 10);
 		mThresholdRadiusForHeading = pt.get("cam.thresholdRadiusForHeading", 0.3);
-		mIsRSU = pt.get("cam.isRSU", 0);
+		//mIsRSU = pt.get("cam.isRSU", 0);
+		mTypeofStation = pt.get("cam.typeofStation", 15);
 	}
 };
 

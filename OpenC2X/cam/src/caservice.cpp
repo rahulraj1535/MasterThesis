@@ -381,7 +381,31 @@ CAM_t* CaService::generateCam() {
 	mLastSentCamInfo.timestamp = currTime;
 
 	// Basic container
-	cam->cam.camParameters.basicContainer.stationType = mConfig.mIsRSU ? StationType_roadSideUnit : StationType_passengerCar;
+	//cam->cam.camParameters.basicContainer.stationType = mConfig.mIsRSU ? StationType_roadSideUnit : StationType_passengerCar;
+
+
+
+
+//Basic container
+
+	
+
+if (mConfig.mTypeofStation== 1){ 
+cam->cam.camParameters.basicContainer.stationType = StationType_pedestrian;
+}
+else if (mConfig.mTypeofStation== 2){ 
+cam->cam.camParameters.basicContainer.stationType = StationType_cyclist;
+}
+else if (mConfig.mTypeofStation== 15){ 
+cam->cam.camParameters.basicContainer.stationType = StationType_roadSideUnit;
+}
+else{ 
+cam->cam.camParameters.basicContainer.stationType = StationType_passengerCar;
+}
+	
+
+
+
 
 	mMutexLatestGps.lock();
 	if (mGpsValid) {
@@ -406,13 +430,20 @@ CAM_t* CaService::generateCam() {
 	cam->cam.camParameters.basicContainer.referencePosition.positionConfidenceEllipse.semiMajorOrientation = 0;
 	cam->cam.camParameters.basicContainer.referencePosition.positionConfidenceEllipse.semiMinorConfidence = 0;
 
+	
+
+
+
+
 	// High frequency container
 	// Could be basic vehicle or RSU and have corresponding details
-	if(mConfig.mIsRSU) {
+	if(mConfig.mTypeofStation == 15) {
 		cam->cam.camParameters.highFrequencyContainer.present = HighFrequencyContainer_PR_rsuContainerHighFrequency;
 		// Optional fields in CAM from RSU
 		// cam->cam.camParameters.highFrequencyContainer.choice.rsuContainerHighFrequency.protectedCommunicationZonesRSU
-	} else {
+	} 
+
+	else if (mConfig.mTypeofStation == 1){
 		cam->cam.camParameters.highFrequencyContainer.present = HighFrequencyContainer_PR_basicVehicleContainerHighFrequency;
 		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.curvature.curvatureValue = CurvatureValue_unavailable;
 		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.curvature.curvatureConfidence = CurvatureConfidence_unavailable;
@@ -447,6 +478,19 @@ CAM_t* CaService::generateCam() {
 
 		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.yawRate.yawRateValue = YawRateValue_unavailable;
 		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.yawRate.yawRateConfidence = YawRateConfidence_unavailable;
+
+	}
+
+
+
+else if (mConfig.mTypeofStation == 2){
+		cam->cam.camParameters.highFrequencyContainer.present = HighFrequencyContainer_PR_basicVehicleContainerHighFrequency;
+cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.heading.headingValue = HeadingValue_unavailable;
+		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.heading.headingConfidence = HeadingConfidence_unavailable;
+cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.speed.speedValue = SpeedValue_unavailable;
+		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.speed.speedConfidence = SpeedConfidence_unavailable;
+
+		
 
 	}
 

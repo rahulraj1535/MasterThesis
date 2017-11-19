@@ -1,0 +1,24 @@
+# Hashes of file build rules.
+2a37e801e0321f1b2416f9bb077266df common/buffers/BasicContainer.pb.cc
+da33b84371decf0e9c9b19feb9b4ec64 common/buffers/BasicVehicleHighFreqContainer.pb.cc
+2c845bcff808248678fead26021ccd67 common/buffers/BasicVehicleLowFreqContainer.pb.cc
+b7a762b78d91e5f4d8b7b44889f0df6b common/buffers/CamParameters.pb.cc
+d99b2d1ca0b1805e4116605f6e802304 common/buffers/CoopAwareness.pb.cc
+5792b56301de29bda02089cd74e00bef common/buffers/DENMManagementContainer.pb.cc
+036a49519ea301a014545b62d922bf4f common/buffers/DENMessage.pb.cc
+f19d542db8bb2f7303f70f5f4f74bf8d common/buffers/HighFreqContainer.pb.cc
+48360e8c98b63af87dee1ad8d0c9b071 common/buffers/ItsPduHeader.pb.cc
+db61c4874fbcc046a6935cff81d370d9 common/buffers/LowFreqContainer.pb.cc
+fdb4474fa91006b80d917b7a5488d2e9 common/buffers/PathPoint.pb.cc
+cf9991729f06306f02dacb687b17f413 common/buffers/ProtectedCommunicationZone.pb.cc
+c380f75073208d1427359e41a5589c7f common/buffers/RsuHighFreqContainer.pb.cc
+10ef188e5075ee67bc2dcea51e4ad9c4 common/buffers/SpecialVehicleContainer.pb.cc
+e67d1821e9f8f555fc531371831f4273 common/buffers/cam.pb.cc
+e4e730b5d081bd438fd28c3f666829c7 common/buffers/camInfo.pb.cc
+70fe5a0f992f4e05a32d0a1f708b7327 common/buffers/data.pb.cc
+6a39092532f7bfdc062f63b63aa962f0 common/buffers/dccInfo.pb.cc
+17a8bf3c122ce3b34abe858887bbba41 common/buffers/denm.pb.cc
+d8da3b0a6007c0cb106478c58756a6f3 common/buffers/gps.pb.cc
+fb96d97851c1a8d12eb657f017a1727d common/buffers/ldmData.pb.cc
+255e3a57ed4e12580993b921416651aa common/buffers/obd2.pb.cc
+a9db559f314b334750e116c46d35a868 common/buffers/trigger.pb.cc
