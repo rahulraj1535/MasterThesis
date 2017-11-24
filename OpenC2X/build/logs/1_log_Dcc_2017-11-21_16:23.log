@@ -1,0 +1,938 @@
+Dcc, 04:23:17,032 	 INFO  	 Current state: Relaxed 		
+Dcc, 04:23:17,037 	 INFO  	 start receiving via Hardware 		
+Dcc, 04:23:18,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:18,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:18,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:18,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:19,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:19,037 	 DEBUG 	 AC 4: added token -> available tokens: 1 		
+Dcc, 04:23:19,037 	 DEBUG 	 AC 6: added token -> available tokens: 1 		
+Dcc, 04:23:19,037 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 04:23:19,037 	 DEBUG 	 AC 1: added token -> available tokens: 1 		
+Dcc, 04:23:20,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:20,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:20,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:20,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:21,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:21,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:21,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:21,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:21,037 	 DEBUG 	 AC 4: added token -> available tokens: 2 		
+Dcc, 04:23:21,037 	 DEBUG 	 AC 6: added token -> available tokens: 2 		
+Dcc, 04:23:21,037 	 DEBUG 	 AC 0: added token -> available tokens: 2 		
+Dcc, 04:23:21,037 	 DEBUG 	 AC 1: added token -> available tokens: 2 		
+Dcc, 04:23:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:22,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:23,037 	 DEBUG 	 AC 4: added token -> available tokens: 3 		
+Dcc, 04:23:23,037 	 DEBUG 	 AC 6: added token -> available tokens: 3 		
+Dcc, 04:23:23,037 	 DEBUG 	 AC 0: added token -> available tokens: 3 		
+Dcc, 04:23:23,037 	 DEBUG 	 AC 1: added token -> available tokens: 3 		
+Dcc, 04:23:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:25,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:25,037 	 DEBUG 	 AC 4: added token -> available tokens: 4 		
+Dcc, 04:23:25,037 	 DEBUG 	 AC 6: added token -> available tokens: 4 		
+Dcc, 04:23:25,037 	 DEBUG 	 AC 0: added token -> available tokens: 4 		
+Dcc, 04:23:25,037 	 DEBUG 	 AC 1: added token -> available tokens: 4 		
+Dcc, 04:23:26,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:26,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:26,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:26,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:27,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:27,037 	 DEBUG 	 AC 4: added token -> available tokens: 5 		
+Dcc, 04:23:27,037 	 DEBUG 	 AC 6: added token -> available tokens: 5 		
+Dcc, 04:23:27,037 	 DEBUG 	 AC 0: added token -> available tokens: 5 		
+Dcc, 04:23:27,037 	 DEBUG 	 AC 1: added token -> available tokens: 5 		
+Dcc, 04:23:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:28,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:28,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:28,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:29,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:29,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:29,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:29,037 	 DEBUG 	 AC 4: added token -> available tokens: 6 		
+Dcc, 04:23:29,037 	 DEBUG 	 AC 6: added token -> available tokens: 6 		
+Dcc, 04:23:29,037 	 DEBUG 	 AC 0: added token -> available tokens: 6 		
+Dcc, 04:23:29,037 	 DEBUG 	 AC 1: added token -> available tokens: 6 		
+Dcc, 04:23:30,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:30,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:30,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:30,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:31,037 	 DEBUG 	 AC 4: added token -> available tokens: 7 		
+Dcc, 04:23:31,037 	 DEBUG 	 AC 6: added token -> available tokens: 7 		
+Dcc, 04:23:31,037 	 DEBUG 	 AC 0: added token -> available tokens: 7 		
+Dcc, 04:23:31,037 	 DEBUG 	 AC 1: added token -> available tokens: 7 		
+Dcc, 04:23:32,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:32,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:32,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:32,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:33,037 	 DEBUG 	 AC 4: added token -> available tokens: 8 		
+Dcc, 04:23:33,037 	 DEBUG 	 AC 6: added token -> available tokens: 8 		
+Dcc, 04:23:33,037 	 DEBUG 	 AC 0: added token -> available tokens: 8 		
+Dcc, 04:23:33,037 	 DEBUG 	 AC 1: added token -> available tokens: 8 		
+Dcc, 04:23:34,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:34,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:34,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:34,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:35,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:35,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:35,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:35,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:35,037 	 DEBUG 	 AC 4: added token -> available tokens: 9 		
+Dcc, 04:23:35,037 	 DEBUG 	 AC 6: added token -> available tokens: 9 		
+Dcc, 04:23:35,037 	 DEBUG 	 AC 0: added token -> available tokens: 9 		
+Dcc, 04:23:35,037 	 DEBUG 	 AC 1: added token -> available tokens: 9 		
+Dcc, 04:23:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:37,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:37,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:37,037 	 DEBUG 	 AC 4: added token -> available tokens: 10 		
+Dcc, 04:23:37,037 	 DEBUG 	 AC 6: added token -> available tokens: 10 		
+Dcc, 04:23:37,037 	 DEBUG 	 AC 0: added token -> available tokens: 10 		
+Dcc, 04:23:37,037 	 DEBUG 	 AC 1: added token -> available tokens: 10 		
+Dcc, 04:23:38,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:38,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:38,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:38,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:39,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:39,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:39,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:39,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:39,037 	 DEBUG 	 AC 4: added token -> available tokens: 11 		
+Dcc, 04:23:39,037 	 DEBUG 	 AC 6: added token -> available tokens: 11 		
+Dcc, 04:23:39,037 	 DEBUG 	 AC 0: added token -> available tokens: 11 		
+Dcc, 04:23:39,037 	 DEBUG 	 AC 1: added token -> available tokens: 11 		
+Dcc, 04:23:40,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:40,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:40,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:40,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:41,036 	 DEBUG 	 AC 4: added token -> available tokens: 12 		
+Dcc, 04:23:41,037 	 DEBUG 	 AC 6: added token -> available tokens: 12 		
+Dcc, 04:23:41,037 	 DEBUG 	 AC 0: added token -> available tokens: 12 		
+Dcc, 04:23:41,037 	 DEBUG 	 AC 1: added token -> available tokens: 12 		
+Dcc, 04:23:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:43,037 	 DEBUG 	 AC 4: added token -> available tokens: 13 		
+Dcc, 04:23:43,037 	 DEBUG 	 AC 6: added token -> available tokens: 13 		
+Dcc, 04:23:43,037 	 DEBUG 	 AC 0: added token -> available tokens: 13 		
+Dcc, 04:23:43,037 	 DEBUG 	 AC 1: added token -> available tokens: 13 		
+Dcc, 04:23:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:45,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:45,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:45,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:45,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:45,037 	 DEBUG 	 AC 4: added token -> available tokens: 14 		
+Dcc, 04:23:45,037 	 DEBUG 	 AC 6: added token -> available tokens: 14 		
+Dcc, 04:23:45,037 	 DEBUG 	 AC 0: added token -> available tokens: 14 		
+Dcc, 04:23:45,037 	 DEBUG 	 AC 1: added token -> available tokens: 14 		
+Dcc, 04:23:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:47,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:47,037 	 DEBUG 	 AC 4: added token -> available tokens: 15 		
+Dcc, 04:23:47,037 	 DEBUG 	 AC 6: added token -> available tokens: 15 		
+Dcc, 04:23:47,037 	 DEBUG 	 AC 0: added token -> available tokens: 15 		
+Dcc, 04:23:47,037 	 DEBUG 	 AC 1: added token -> available tokens: 15 		
+Dcc, 04:23:48,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:48,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:48,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:48,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:49,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:49,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:49,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:49,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:49,037 	 DEBUG 	 AC 4: added token -> available tokens: 16 		
+Dcc, 04:23:49,037 	 DEBUG 	 AC 6: added token -> available tokens: 16 		
+Dcc, 04:23:49,037 	 DEBUG 	 AC 0: added token -> available tokens: 16 		
+Dcc, 04:23:49,037 	 DEBUG 	 AC 1: added token -> available tokens: 16 		
+Dcc, 04:23:50,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:50,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:50,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:50,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:51,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:51,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:51,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:51,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:51,037 	 DEBUG 	 AC 4: added token -> available tokens: 17 		
+Dcc, 04:23:51,037 	 DEBUG 	 AC 6: added token -> available tokens: 17 		
+Dcc, 04:23:51,037 	 DEBUG 	 AC 0: added token -> available tokens: 17 		
+Dcc, 04:23:51,037 	 DEBUG 	 AC 1: added token -> available tokens: 17 		
+Dcc, 04:23:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:52,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:52,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:53,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:53,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:53,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:53,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:53,037 	 DEBUG 	 AC 4: added token -> available tokens: 18 		
+Dcc, 04:23:53,037 	 DEBUG 	 AC 6: added token -> available tokens: 18 		
+Dcc, 04:23:53,037 	 DEBUG 	 AC 0: added token -> available tokens: 18 		
+Dcc, 04:23:53,037 	 DEBUG 	 AC 1: added token -> available tokens: 18 		
+Dcc, 04:23:54,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:54,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:54,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:54,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:55,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:55,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:55,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:55,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:55,037 	 DEBUG 	 AC 4: added token -> available tokens: 19 		
+Dcc, 04:23:55,037 	 DEBUG 	 AC 6: added token -> available tokens: 19 		
+Dcc, 04:23:55,037 	 DEBUG 	 AC 0: added token -> available tokens: 19 		
+Dcc, 04:23:55,037 	 DEBUG 	 AC 1: added token -> available tokens: 19 		
+Dcc, 04:23:56,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:56,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:56,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:56,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:57,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:57,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:57,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:57,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:57,037 	 DEBUG 	 AC 4: added token -> available tokens: 20 		
+Dcc, 04:23:57,037 	 DEBUG 	 AC 6: added token -> available tokens: 20 		
+Dcc, 04:23:57,037 	 DEBUG 	 AC 0: added token -> available tokens: 20 		
+Dcc, 04:23:57,037 	 DEBUG 	 AC 1: added token -> available tokens: 20 		
+Dcc, 04:23:58,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:58,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:58,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:58,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:59,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:59,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:59,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:59,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:23:59,037 	 DEBUG 	 AC 4: added token -> available tokens: 21 		
+Dcc, 04:23:59,037 	 DEBUG 	 AC 6: added token -> available tokens: 21 		
+Dcc, 04:23:59,037 	 DEBUG 	 AC 0: added token -> available tokens: 21 		
+Dcc, 04:23:59,037 	 DEBUG 	 AC 1: added token -> available tokens: 21 		
+Dcc, 04:24:00,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:00,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:00,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:00,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:01,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:01,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:01,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:01,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:01,037 	 DEBUG 	 AC 4: added token -> available tokens: 22 		
+Dcc, 04:24:01,037 	 DEBUG 	 AC 6: added token -> available tokens: 22 		
+Dcc, 04:24:01,037 	 DEBUG 	 AC 0: added token -> available tokens: 22 		
+Dcc, 04:24:01,037 	 DEBUG 	 AC 1: added token -> available tokens: 22 		
+Dcc, 04:24:02,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:02,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:02,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:02,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:03,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:03,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:03,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:03,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:03,036 	 DEBUG 	 AC 4: added token -> available tokens: 23 		
+Dcc, 04:24:03,037 	 DEBUG 	 AC 6: added token -> available tokens: 23 		
+Dcc, 04:24:03,037 	 DEBUG 	 AC 0: added token -> available tokens: 23 		
+Dcc, 04:24:03,037 	 DEBUG 	 AC 1: added token -> available tokens: 23 		
+Dcc, 04:24:04,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:04,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:04,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:04,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:05,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:05,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:05,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:05,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:05,037 	 DEBUG 	 AC 4: added token -> available tokens: 24 		
+Dcc, 04:24:05,037 	 DEBUG 	 AC 6: added token -> available tokens: 24 		
+Dcc, 04:24:05,037 	 DEBUG 	 AC 0: added token -> available tokens: 24 		
+Dcc, 04:24:05,037 	 DEBUG 	 AC 1: added token -> available tokens: 24 		
+Dcc, 04:24:06,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:06,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:06,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:06,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:07,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:07,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:07,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:07,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:07,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:07,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:07,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:07,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:08,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:08,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:08,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:08,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:09,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:09,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:09,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:09,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:09,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:09,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:09,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:09,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:10,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:10,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:10,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:10,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:11,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:11,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:11,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:11,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:11,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:11,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:11,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:11,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:12,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:12,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:12,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:12,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:13,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:13,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:13,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:13,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:13,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:13,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:13,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:13,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:14,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:14,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:14,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:14,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:15,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:15,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:15,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:15,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:15,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:15,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:15,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:15,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:16,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:16,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:16,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:16,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:17,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:17,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:17,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:17,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:17,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:17,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:17,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:17,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:18,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:18,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:18,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:18,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:19,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:19,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:19,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:19,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:20,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:20,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:20,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:20,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:21,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:21,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:21,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:21,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:21,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:21,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:21,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:21,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:22,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:22,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:23,036 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:23,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:23,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:23,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:24,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:25,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:25,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:25,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:25,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:25,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:25,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:25,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:26,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:26,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:26,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:26,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:27,036 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:27,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:27,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:27,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:29,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:29,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:29,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:29,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:30,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:30,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:30,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:30,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:31,036 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:31,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:31,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:31,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:32,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:32,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:32,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:32,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:33,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:33,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:33,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:33,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:33,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:34,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:34,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:34,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:34,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:35,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:35,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:35,038 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:35,038 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:35,038 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:35,038 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:35,038 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:35,038 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:36,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:36,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:37,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:37,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:37,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:37,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:37,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:38,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:38,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:38,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:38,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:39,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:39,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:39,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:39,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:39,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:39,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:39,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:39,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:40,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:40,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:40,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:40,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:41,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:41,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:41,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:41,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:41,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:42,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:43,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:43,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:43,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:43,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:43,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:44,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:45,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:45,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:45,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:45,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:45,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:45,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:45,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:45,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:46,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:47,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:47,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:47,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:47,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:47,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:48,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:48,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:48,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:48,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:49,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:49,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:49,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:49,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:50,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:50,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:50,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:50,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:51,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:51,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:51,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:51,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:51,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:51,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:51,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:51,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:53,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:53,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:53,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:53,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:53,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:53,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:53,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:53,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:54,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:54,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:54,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:54,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:55,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:55,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:55,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:55,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:55,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:55,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:55,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:55,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:56,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:56,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:56,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:56,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:57,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:57,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:57,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:57,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:57,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:57,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:57,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:57,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:24:58,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:58,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:58,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:58,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:59,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:59,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:59,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:59,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:24:59,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:24:59,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:24:59,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:24:59,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:00,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:00,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:00,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:00,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:01,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:01,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:01,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:01,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:01,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:01,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:01,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:01,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:02,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:02,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:02,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:02,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:03,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:03,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:03,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:03,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:03,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:03,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:03,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:03,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:04,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:04,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:04,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:04,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:05,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:05,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:05,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:05,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:05,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:05,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:05,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:05,038 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:06,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:06,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:06,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:06,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:07,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:07,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:07,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:07,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:07,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:07,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:07,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:07,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:08,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:08,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:08,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:08,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:09,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:09,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:09,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:09,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:09,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:09,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:09,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:09,038 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:10,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:10,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:10,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:10,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:11,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:11,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:11,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:11,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:11,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:11,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:11,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:11,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:12,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:12,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:12,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:12,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:13,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:13,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:13,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:13,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:13,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:13,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:13,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:13,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:14,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:14,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:14,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:14,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:15,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:15,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:15,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:15,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:15,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:15,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:15,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:15,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:16,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:16,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:16,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:16,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:17,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:17,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:17,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:17,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:17,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:17,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:17,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:17,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:18,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:18,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:18,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:18,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:19,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:19,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:19,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:19,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:19,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:19,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:20,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:20,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:20,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:20,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:21,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:21,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:21,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:21,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:21,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:21,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:21,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:21,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:22,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:22,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:23,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:23,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:23,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:23,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:23,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:23,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:24,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:25,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:25,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:25,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:25,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:25,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:26,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:26,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:26,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:26,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:27,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:27,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:27,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:27,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:27,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:27,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:28,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:28,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:29,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:29,036 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:29,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:29,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:29,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:30,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:30,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:30,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:30,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:31,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:31,036 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:31,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:31,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:31,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:32,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:32,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:32,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:32,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:33,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:33,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:33,038 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:33,038 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:33,038 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:33,038 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:33,038 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:33,038 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:34,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:34,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:34,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:34,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:35,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:35,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:35,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:35,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:35,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:35,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:35,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:35,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:36,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:37,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:37,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:37,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:37,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:37,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:37,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:38,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:38,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:38,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:38,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:39,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:39,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:39,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:39,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:39,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:39,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:39,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:39,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:40,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:40,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:40,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:40,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:41,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:41,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:41,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:41,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:41,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:41,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:42,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:42,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:42,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:42,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:43,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:43,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:43,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:43,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:43,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:43,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:43,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:43,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:44,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:44,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:45,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:45,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:45,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:45,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:45,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:45,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:45,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:45,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:46,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:46,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:46,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:46,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:47,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:47,036 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:47,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:47,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:47,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:48,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:48,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:48,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:48,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:49,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:49,036 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:49,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:49,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:49,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:50,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:50,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:50,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:50,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:51,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:51,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:51,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:51,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:51,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:51,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:51,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:51,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 04:25:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:52,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:52,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:53,036 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:53,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:53,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:53,037 	 DEBUG 	 dccInfo sent 		
+Dcc, 04:25:53,037 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 04:25:53,037 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 04:25:53,037 	 DEBUG 	 AC 0: added token -> available tokens: 25 		
+Dcc, 04:25:53,037 	 DEBUG 	 AC 1: added token -> available tokens: 25 		

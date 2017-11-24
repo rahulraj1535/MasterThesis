@@ -562,6 +562,33 @@ SpecialVehicleContainer.pb.cc.s:
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build && $(MAKE) -f common/buffers/CMakeFiles/proto.dir/build.make common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.s
 .PHONY : SpecialVehicleContainer.pb.cc.s
 
+VruHighFreqContainer.pb.o: VruHighFreqContainer.pb.cc.o
+
+.PHONY : VruHighFreqContainer.pb.o
+
+# target to build an object file
+VruHighFreqContainer.pb.cc.o:
+	cd /home/rahul/OpenC2Xgit/OpenC2X/build && $(MAKE) -f common/buffers/CMakeFiles/proto.dir/build.make common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o
+.PHONY : VruHighFreqContainer.pb.cc.o
+
+VruHighFreqContainer.pb.i: VruHighFreqContainer.pb.cc.i
+
+.PHONY : VruHighFreqContainer.pb.i
+
+# target to preprocess a source file
+VruHighFreqContainer.pb.cc.i:
+	cd /home/rahul/OpenC2Xgit/OpenC2X/build && $(MAKE) -f common/buffers/CMakeFiles/proto.dir/build.make common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.i
+.PHONY : VruHighFreqContainer.pb.cc.i
+
+VruHighFreqContainer.pb.s: VruHighFreqContainer.pb.cc.s
+
+.PHONY : VruHighFreqContainer.pb.s
+
+# target to generate assembly for a file
+VruHighFreqContainer.pb.cc.s:
+	cd /home/rahul/OpenC2Xgit/OpenC2X/build && $(MAKE) -f common/buffers/CMakeFiles/proto.dir/build.make common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.s
+.PHONY : VruHighFreqContainer.pb.cc.s
+
 cam.pb.o: cam.pb.cc.o
 
 .PHONY : cam.pb.o
@@ -861,6 +888,9 @@ help:
 	@echo "... SpecialVehicleContainer.pb.o"
 	@echo "... SpecialVehicleContainer.pb.i"
 	@echo "... SpecialVehicleContainer.pb.s"
+	@echo "... VruHighFreqContainer.pb.o"
+	@echo "... VruHighFreqContainer.pb.i"
+	@echo "... VruHighFreqContainer.pb.s"
 	@echo "... cam.pb.o"
 	@echo "... cam.pb.i"
 	@echo "... cam.pb.s"

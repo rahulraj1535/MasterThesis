@@ -22,6 +22,7 @@ common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o: common/buffers/PathPo
 common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o: common/buffers/ProtectedCommunicationZone.pb.h
 common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o: common/buffers/RsuHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o: common/buffers/SpecialVehicleContainer.pb.h
+common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o: common/buffers/VruHighFreqContainer.pb.h
 
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/BasicContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/BasicVehicleHighFreqContainer.pb.h
@@ -35,6 +36,7 @@ common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/PathPo
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/ProtectedCommunicationZone.pb.h
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/RsuHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/SpecialVehicleContainer.pb.h
+common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/VruHighFreqContainer.pb.h
 
 common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o: common/buffers/DENMManagementContainer.pb.cc
 common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o: common/buffers/DENMManagementContainer.pb.h
@@ -48,6 +50,7 @@ common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o: common/buffers/Hi
 common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o: common/buffers/HighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o: common/buffers/ProtectedCommunicationZone.pb.h
 common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o: common/buffers/RsuHighFreqContainer.pb.h
+common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o: common/buffers/VruHighFreqContainer.pb.h
 
 common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o: common/buffers/ItsPduHeader.pb.cc
 common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o: common/buffers/ItsPduHeader.pb.h
@@ -70,6 +73,9 @@ common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o: common/buffers
 common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o: common/buffers/SpecialVehicleContainer.pb.cc
 common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o: common/buffers/SpecialVehicleContainer.pb.h
 
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o: common/buffers/VruHighFreqContainer.pb.cc
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o: common/buffers/VruHighFreqContainer.pb.h
+
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/BasicContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/BasicVehicleHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/BasicVehicleLowFreqContainer.pb.h
@@ -82,6 +88,7 @@ common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/PathPoint.pb.h
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/ProtectedCommunicationZone.pb.h
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/RsuHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/SpecialVehicleContainer.pb.h
+common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/VruHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/cam.pb.cc
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/cam.pb.h
 

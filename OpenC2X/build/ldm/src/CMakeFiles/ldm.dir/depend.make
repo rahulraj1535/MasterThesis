@@ -27,6 +27,7 @@ ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/buffers/build/PathPoint.pb.h
 ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/buffers/build/ProtectedCommunicationZone.pb.h
 ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/buffers/build/RsuHighFreqContainer.pb.h
 ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/buffers/build/SpecialVehicleContainer.pb.h
+ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/buffers/build/VruHighFreqContainer.pb.h
 ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/utility/LoggingUtility.h
 ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/utility/external/easylogging++.h
 ldm/src/CMakeFiles/ldm.dir/ldm.cpp.o: ../common/utility/external/zhelpers.hpp

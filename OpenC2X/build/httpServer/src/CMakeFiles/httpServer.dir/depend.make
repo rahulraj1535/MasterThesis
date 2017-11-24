@@ -53,6 +53,7 @@ httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/buffers/bui
 httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/buffers/build/ProtectedCommunicationZone.pb.h
 httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/buffers/build/RsuHighFreqContainer.pb.h
 httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/buffers/build/SpecialVehicleContainer.pb.h
+httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/buffers/build/VruHighFreqContainer.pb.h
 httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/utility/LoggingUtility.h
 httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/utility/external/easylogging++.h
 httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o: ../common/utility/external/zhelpers.hpp

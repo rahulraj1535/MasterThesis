@@ -1,0 +1,8 @@
+CaService, 07:20:20,540 	 DEBUG 	 camInfo sent 		
+CaService, 07:20:20,541 	 INFO  	 deltaTime: 1511288420540848606 		
+CaService, 07:20:20,541 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 07:20:20,541 	 INFO  	 Encoded bytes: -1 		
+CaService, 07:20:48,007 	 DEBUG 	 camInfo sent 		
+CaService, 07:20:48,007 	 INFO  	 deltaTime: 1511288448006830993 		
+CaService, 07:20:48,007 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 07:20:48,007 	 INFO  	 Encoded bytes: -1 		

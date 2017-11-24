@@ -54,6 +54,7 @@ httpServer/src/CMakeFiles/httpServer.dir/httpServer.cpp.o
  ../common/buffers/build/ProtectedCommunicationZone.pb.h
  ../common/buffers/build/RsuHighFreqContainer.pb.h
  ../common/buffers/build/SpecialVehicleContainer.pb.h
+ ../common/buffers/build/VruHighFreqContainer.pb.h
  ../common/utility/LoggingUtility.h
  ../common/utility/external/easylogging++.h
  ../common/utility/external/zhelpers.hpp

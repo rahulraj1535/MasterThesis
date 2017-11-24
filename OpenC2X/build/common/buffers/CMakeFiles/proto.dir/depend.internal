@@ -23,6 +23,7 @@ common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ProtectedCommunicationZone.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/RsuHighFreqContainer.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/SpecialVehicleContainer.pb.h
+ /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/BasicContainer.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/BasicVehicleHighFreqContainer.pb.h
@@ -36,6 +37,7 @@ common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ProtectedCommunicationZone.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/RsuHighFreqContainer.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/SpecialVehicleContainer.pb.h
+ /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/DENMManagementContainer.pb.cc
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/DENMManagementContainer.pb.h
@@ -49,6 +51,7 @@ common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/HighFreqContainer.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ProtectedCommunicationZone.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/RsuHighFreqContainer.pb.h
+ /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ItsPduHeader.pb.cc
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ItsPduHeader.pb.h
@@ -70,6 +73,9 @@ common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o
 common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/SpecialVehicleContainer.pb.cc
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/SpecialVehicleContainer.pb.h
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o
+ /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.cc
+ /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/BasicContainer.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/BasicVehicleHighFreqContainer.pb.h
@@ -83,6 +89,7 @@ common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ProtectedCommunicationZone.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/RsuHighFreqContainer.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/SpecialVehicleContainer.pb.h
+ /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.h
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/cam.pb.cc
  /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/cam.pb.h
 common/buffers/CMakeFiles/proto.dir/camInfo.pb.cc.o

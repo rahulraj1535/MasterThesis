@@ -1,0 +1,773 @@
+Dcc, 00:40:49,924 	 INFO  	 Current state: Relaxed 		
+Dcc, 00:40:49,928 	 INFO  	 start receiving via Hardware 		
+Dcc, 00:40:50,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:50,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:50,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:50,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:51,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:51,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:51,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:51,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:51,928 	 DEBUG 	 AC 4: added token -> available tokens: 1 		
+Dcc, 00:40:51,928 	 DEBUG 	 AC 6: added token -> available tokens: 1 		
+Dcc, 00:40:51,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:40:51,928 	 DEBUG 	 AC 1: added token -> available tokens: 1 		
+Dcc, 00:40:52,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:52,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:52,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:52,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:53,837 	 DEBUG 	 CAM received 		
+Dcc, 00:40:53,837 	 INFO  	  		
+Dcc, 00:40:53,837 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:40:53,837 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:40:53,837 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 0 		
+Dcc, 00:40:53,838 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:53,838 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:53,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:53,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:53,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:53,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:53,928 	 DEBUG 	 AC 4: added token -> available tokens: 2 		
+Dcc, 00:40:53,928 	 DEBUG 	 AC 6: added token -> available tokens: 2 		
+Dcc, 00:40:53,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:40:53,928 	 DEBUG 	 AC 1: added token -> available tokens: 2 		
+Dcc, 00:40:53,938 	 DEBUG 	 CAM received 		
+Dcc, 00:40:53,938 	 INFO  	  		
+Dcc, 00:40:53,938 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:40:53,938 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:40:53,938 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 0 		
+Dcc, 00:40:53,938 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:53,938 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:54,039 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,039 	 INFO  	  		
+Dcc, 00:40:54,040 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:40:54,140 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,140 	 INFO  	  		
+Dcc, 00:40:54,140 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 2 		
+Dcc, 00:40:54,241 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,241 	 INFO  	  		
+Dcc, 00:40:54,242 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 3 		
+Dcc, 00:40:54,342 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,342 	 INFO  	  		
+Dcc, 00:40:54,343 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 4 		
+Dcc, 00:40:54,443 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,443 	 INFO  	  		
+Dcc, 00:40:54,443 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 5 		
+Dcc, 00:40:54,544 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,544 	 INFO  	  		
+Dcc, 00:40:54,544 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 6 		
+Dcc, 00:40:54,645 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,646 	 INFO  	  		
+Dcc, 00:40:54,646 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 7 		
+Dcc, 00:40:54,747 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,747 	 INFO  	  		
+Dcc, 00:40:54,747 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 8 		
+Dcc, 00:40:54,848 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,848 	 INFO  	  		
+Dcc, 00:40:54,848 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 9 		
+Dcc, 00:40:54,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:54,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:54,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:54,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:54,950 	 DEBUG 	 CAM received 		
+Dcc, 00:40:54,950 	 INFO  	  		
+Dcc, 00:40:54,950 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,051 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,051 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,051 	 INFO  	  		
+Dcc, 00:40:55,051 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,152 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,152 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,152 	 INFO  	  		
+Dcc, 00:40:55,152 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,252 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,252 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,252 	 INFO  	  		
+Dcc, 00:40:55,252 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,353 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,353 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,353 	 INFO  	  		
+Dcc, 00:40:55,353 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,454 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,454 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,454 	 INFO  	  		
+Dcc, 00:40:55,454 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,555 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,555 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,555 	 INFO  	  		
+Dcc, 00:40:55,555 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,655 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,655 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,655 	 INFO  	  		
+Dcc, 00:40:55,656 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,756 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,756 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,756 	 INFO  	  		
+Dcc, 00:40:55,756 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,857 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,857 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:55,857 	 INFO  	  		
+Dcc, 00:40:55,857 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:55,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:55,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:55,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:55,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:55,928 	 DEBUG 	 AC 4: added token -> available tokens: 3 		
+Dcc, 00:40:55,928 	 DEBUG 	 AC 6: added token -> available tokens: 3 		
+Dcc, 00:40:55,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:40:55,928 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:40:55,928 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 9, tokens: 0 		
+Dcc, 00:40:55,928 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:55,928 	 DEBUG 	 AC 1: added token -> available tokens: 3 		
+Dcc, 00:40:55,928 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:55,958 	 DEBUG 	 CAM received 		
+Dcc, 00:40:55,958 	 INFO  	  		
+Dcc, 00:40:55,958 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,059 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,059 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,059 	 INFO  	  		
+Dcc, 00:40:56,059 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,159 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,159 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,159 	 INFO  	  		
+Dcc, 00:40:56,159 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,260 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,260 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,260 	 INFO  	  		
+Dcc, 00:40:56,260 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,360 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,360 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,360 	 INFO  	  		
+Dcc, 00:40:56,360 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,461 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,461 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,461 	 INFO  	  		
+Dcc, 00:40:56,461 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,562 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,562 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,563 	 INFO  	  		
+Dcc, 00:40:56,563 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,663 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,664 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,664 	 INFO  	  		
+Dcc, 00:40:56,664 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,765 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,765 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,765 	 INFO  	  		
+Dcc, 00:40:56,765 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,865 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,865 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,865 	 INFO  	  		
+Dcc, 00:40:56,865 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:56,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:56,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:56,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:56,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:56,966 	 DEBUG 	 CAM received 		
+Dcc, 00:40:56,966 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:56,966 	 INFO  	  		
+Dcc, 00:40:56,966 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,066 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,066 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,066 	 INFO  	  		
+Dcc, 00:40:57,066 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,167 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,167 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,167 	 INFO  	  		
+Dcc, 00:40:57,167 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,268 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,268 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,269 	 INFO  	  		
+Dcc, 00:40:57,269 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,369 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,370 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,370 	 INFO  	  		
+Dcc, 00:40:57,370 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,470 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,470 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,470 	 INFO  	  		
+Dcc, 00:40:57,470 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,571 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,571 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,571 	 INFO  	  		
+Dcc, 00:40:57,571 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,672 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,672 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,672 	 INFO  	  		
+Dcc, 00:40:57,672 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,773 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,773 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,773 	 INFO  	  		
+Dcc, 00:40:57,773 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,874 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,874 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:57,874 	 INFO  	  		
+Dcc, 00:40:57,874 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:57,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:57,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:57,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:57,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:57,928 	 DEBUG 	 AC 4: added token -> available tokens: 4 		
+Dcc, 00:40:57,928 	 DEBUG 	 AC 6: added token -> available tokens: 4 		
+Dcc, 00:40:57,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:40:57,928 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:40:57,928 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 9, tokens: 0 		
+Dcc, 00:40:57,928 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:57,928 	 DEBUG 	 AC 1: added token -> available tokens: 4 		
+Dcc, 00:40:57,928 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:57,975 	 DEBUG 	 CAM received 		
+Dcc, 00:40:57,975 	 INFO  	  		
+Dcc, 00:40:57,975 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,076 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,076 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,076 	 INFO  	  		
+Dcc, 00:40:58,076 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,176 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,177 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,177 	 INFO  	  		
+Dcc, 00:40:58,177 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,277 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,277 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,277 	 INFO  	  		
+Dcc, 00:40:58,277 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,379 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,379 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,379 	 INFO  	  		
+Dcc, 00:40:58,379 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,479 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,479 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,479 	 INFO  	  		
+Dcc, 00:40:58,479 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,580 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,580 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,580 	 INFO  	  		
+Dcc, 00:40:58,580 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,680 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,681 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,681 	 INFO  	  		
+Dcc, 00:40:58,681 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,781 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,781 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,781 	 INFO  	  		
+Dcc, 00:40:58,781 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,882 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,882 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,882 	 INFO  	  		
+Dcc, 00:40:58,882 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:58,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:58,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:58,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:58,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:58,982 	 DEBUG 	 CAM received 		
+Dcc, 00:40:58,983 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:58,983 	 INFO  	  		
+Dcc, 00:40:58,983 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,083 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,084 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,084 	 INFO  	  		
+Dcc, 00:40:59,084 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,184 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,185 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,185 	 INFO  	  		
+Dcc, 00:40:59,185 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,285 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,286 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,286 	 INFO  	  		
+Dcc, 00:40:59,286 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,387 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,387 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,387 	 INFO  	  		
+Dcc, 00:40:59,387 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,489 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,489 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,489 	 INFO  	  		
+Dcc, 00:40:59,489 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,589 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,589 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,589 	 INFO  	  		
+Dcc, 00:40:59,589 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,690 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,690 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,690 	 INFO  	  		
+Dcc, 00:40:59,690 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,790 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,790 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,791 	 INFO  	  		
+Dcc, 00:40:59,791 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,891 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,891 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:40:59,891 	 INFO  	  		
+Dcc, 00:40:59,891 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:40:59,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:59,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:59,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:59,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:40:59,928 	 DEBUG 	 AC 4: added token -> available tokens: 5 		
+Dcc, 00:40:59,928 	 DEBUG 	 AC 6: added token -> available tokens: 5 		
+Dcc, 00:40:59,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:40:59,928 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:40:59,928 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 9, tokens: 0 		
+Dcc, 00:40:59,928 	 DEBUG 	 AC 1: added token -> available tokens: 5 		
+Dcc, 00:40:59,928 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:59,928 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:40:59,992 	 DEBUG 	 CAM received 		
+Dcc, 00:40:59,992 	 INFO  	  		
+Dcc, 00:40:59,992 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,094 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,094 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,094 	 INFO  	  		
+Dcc, 00:41:00,094 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,194 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,194 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,194 	 INFO  	  		
+Dcc, 00:41:00,194 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,295 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,295 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,295 	 INFO  	  		
+Dcc, 00:41:00,295 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,396 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,396 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,396 	 INFO  	  		
+Dcc, 00:41:00,396 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,497 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,497 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,497 	 INFO  	  		
+Dcc, 00:41:00,498 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,598 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,599 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,599 	 INFO  	  		
+Dcc, 00:41:00,599 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,699 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,700 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,700 	 INFO  	  		
+Dcc, 00:41:00,700 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,800 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,800 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,801 	 INFO  	  		
+Dcc, 00:41:00,801 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,901 	 DEBUG 	 CAM received 		
+Dcc, 00:41:00,901 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:00,901 	 INFO  	  		
+Dcc, 00:41:00,901 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:00,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:00,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:00,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:00,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:01,001 	 DEBUG 	 CAM received 		
+Dcc, 00:41:01,001 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,002 	 INFO  	  		
+Dcc, 00:41:01,002 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:01,102 	 DEBUG 	 CAM received 		
+Dcc, 00:41:01,102 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,102 	 INFO  	  		
+Dcc, 00:41:01,102 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 10 		
+Dcc, 00:41:01,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:01,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:01,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:01,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:01,928 	 DEBUG 	 AC 4: added token -> available tokens: 6 		
+Dcc, 00:41:01,928 	 DEBUG 	 AC 6: added token -> available tokens: 6 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:01,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:41:01,928 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:01,928 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 1, tokens: 0 		
+Dcc, 00:41:01,928 	 DEBUG 	 AC 1: added token -> available tokens: 6 		
+Dcc, 00:41:01,929 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:01,929 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:02,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:02,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:02,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:02,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:03,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:03,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:03,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:03,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:03,928 	 DEBUG 	 AC 4: added token -> available tokens: 7 		
+Dcc, 00:41:03,928 	 DEBUG 	 AC 6: added token -> available tokens: 7 		
+Dcc, 00:41:03,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:03,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:41:03,928 	 DEBUG 	 AC 1: added token -> available tokens: 7 		
+Dcc, 00:41:04,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:04,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:04,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:04,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:05,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:05,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:05,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:05,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:05,928 	 DEBUG 	 AC 4: added token -> available tokens: 8 		
+Dcc, 00:41:05,928 	 DEBUG 	 AC 6: added token -> available tokens: 8 		
+Dcc, 00:41:05,928 	 DEBUG 	 AC 0: added token -> available tokens: 2 		
+Dcc, 00:41:05,928 	 DEBUG 	 AC 1: added token -> available tokens: 8 		
+Dcc, 00:41:06,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:06,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:06,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:06,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:07,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:07,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:07,929 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:07,929 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:07,929 	 DEBUG 	 AC 4: added token -> available tokens: 9 		
+Dcc, 00:41:07,929 	 DEBUG 	 AC 6: added token -> available tokens: 9 		
+Dcc, 00:41:07,929 	 DEBUG 	 AC 0: added token -> available tokens: 3 		
+Dcc, 00:41:07,929 	 DEBUG 	 AC 1: added token -> available tokens: 9 		
+Dcc, 00:41:08,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:08,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:08,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:08,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:09,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:09,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:09,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:09,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:09,928 	 DEBUG 	 AC 4: added token -> available tokens: 10 		
+Dcc, 00:41:09,928 	 DEBUG 	 AC 6: added token -> available tokens: 10 		
+Dcc, 00:41:09,928 	 DEBUG 	 AC 0: added token -> available tokens: 4 		
+Dcc, 00:41:09,928 	 DEBUG 	 AC 1: added token -> available tokens: 10 		
+Dcc, 00:41:10,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:10,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:10,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:10,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:11,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:11,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:11,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:11,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:11,928 	 DEBUG 	 AC 4: added token -> available tokens: 11 		
+Dcc, 00:41:11,928 	 DEBUG 	 AC 6: added token -> available tokens: 11 		
+Dcc, 00:41:11,928 	 DEBUG 	 AC 0: added token -> available tokens: 5 		
+Dcc, 00:41:11,929 	 DEBUG 	 AC 1: added token -> available tokens: 11 		
+Dcc, 00:41:12,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:12,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:12,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:12,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:13,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:13,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:13,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:13,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:13,928 	 DEBUG 	 AC 4: added token -> available tokens: 12 		
+Dcc, 00:41:13,928 	 DEBUG 	 AC 6: added token -> available tokens: 12 		
+Dcc, 00:41:13,928 	 DEBUG 	 AC 0: added token -> available tokens: 6 		
+Dcc, 00:41:13,928 	 DEBUG 	 AC 1: added token -> available tokens: 12 		
+Dcc, 00:41:14,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:14,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:14,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:14,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:15,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:15,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:15,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:15,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:15,928 	 DEBUG 	 AC 4: added token -> available tokens: 13 		
+Dcc, 00:41:15,928 	 DEBUG 	 AC 6: added token -> available tokens: 13 		
+Dcc, 00:41:15,928 	 DEBUG 	 AC 0: added token -> available tokens: 7 		
+Dcc, 00:41:15,928 	 DEBUG 	 AC 1: added token -> available tokens: 13 		
+Dcc, 00:41:16,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:16,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:16,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:16,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:17,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:17,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:17,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:17,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:17,928 	 DEBUG 	 AC 4: added token -> available tokens: 14 		
+Dcc, 00:41:17,928 	 DEBUG 	 AC 6: added token -> available tokens: 14 		
+Dcc, 00:41:17,928 	 DEBUG 	 AC 0: added token -> available tokens: 8 		
+Dcc, 00:41:17,928 	 DEBUG 	 AC 1: added token -> available tokens: 14 		
+Dcc, 00:41:18,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:18,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:18,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:18,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:19,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:19,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:19,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:19,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:19,928 	 DEBUG 	 AC 4: added token -> available tokens: 15 		
+Dcc, 00:41:19,928 	 DEBUG 	 AC 6: added token -> available tokens: 15 		
+Dcc, 00:41:19,928 	 DEBUG 	 AC 0: added token -> available tokens: 9 		
+Dcc, 00:41:19,928 	 DEBUG 	 AC 1: added token -> available tokens: 15 		
+Dcc, 00:41:20,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:20,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:20,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:20,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:21,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:21,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:21,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:21,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:21,928 	 DEBUG 	 AC 4: added token -> available tokens: 16 		
+Dcc, 00:41:21,928 	 DEBUG 	 AC 6: added token -> available tokens: 16 		
+Dcc, 00:41:21,928 	 DEBUG 	 AC 0: added token -> available tokens: 10 		
+Dcc, 00:41:21,928 	 DEBUG 	 AC 1: added token -> available tokens: 16 		
+Dcc, 00:41:22,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:22,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:22,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:22,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:23,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:23,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:23,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:23,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:23,928 	 DEBUG 	 AC 4: added token -> available tokens: 17 		
+Dcc, 00:41:23,928 	 DEBUG 	 AC 6: added token -> available tokens: 17 		
+Dcc, 00:41:23,928 	 DEBUG 	 AC 0: added token -> available tokens: 11 		
+Dcc, 00:41:23,928 	 DEBUG 	 AC 1: added token -> available tokens: 17 		
+Dcc, 00:41:24,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:24,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:24,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:24,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:25,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:25,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:25,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:25,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:25,928 	 DEBUG 	 AC 4: added token -> available tokens: 18 		
+Dcc, 00:41:25,928 	 DEBUG 	 AC 6: added token -> available tokens: 18 		
+Dcc, 00:41:25,928 	 DEBUG 	 AC 0: added token -> available tokens: 12 		
+Dcc, 00:41:25,928 	 DEBUG 	 AC 1: added token -> available tokens: 18 		
+Dcc, 00:41:26,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:26,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:26,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:26,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:27,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:27,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:27,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:27,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:27,928 	 DEBUG 	 AC 4: added token -> available tokens: 19 		
+Dcc, 00:41:27,928 	 DEBUG 	 AC 6: added token -> available tokens: 19 		
+Dcc, 00:41:27,928 	 DEBUG 	 AC 0: added token -> available tokens: 13 		
+Dcc, 00:41:27,929 	 DEBUG 	 AC 1: added token -> available tokens: 19 		
+Dcc, 00:41:28,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:28,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:28,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:28,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:29,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:29,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:29,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:29,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:29,928 	 DEBUG 	 AC 4: added token -> available tokens: 20 		
+Dcc, 00:41:29,928 	 DEBUG 	 AC 6: added token -> available tokens: 20 		
+Dcc, 00:41:29,928 	 DEBUG 	 AC 0: added token -> available tokens: 14 		
+Dcc, 00:41:29,928 	 DEBUG 	 AC 1: added token -> available tokens: 20 		
+Dcc, 00:41:30,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:30,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:30,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:30,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:31,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:31,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:31,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:31,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:31,928 	 DEBUG 	 AC 4: added token -> available tokens: 21 		
+Dcc, 00:41:31,928 	 DEBUG 	 AC 6: added token -> available tokens: 21 		
+Dcc, 00:41:31,928 	 DEBUG 	 AC 0: added token -> available tokens: 15 		
+Dcc, 00:41:31,928 	 DEBUG 	 AC 1: added token -> available tokens: 21 		
+Dcc, 00:41:32,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:32,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:32,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:32,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:33,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:33,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:33,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:33,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:33,928 	 DEBUG 	 AC 4: added token -> available tokens: 22 		
+Dcc, 00:41:33,928 	 DEBUG 	 AC 6: added token -> available tokens: 22 		
+Dcc, 00:41:33,928 	 DEBUG 	 AC 0: added token -> available tokens: 16 		
+Dcc, 00:41:33,928 	 DEBUG 	 AC 1: added token -> available tokens: 22 		
+Dcc, 00:41:34,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:34,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:34,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:34,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:35,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:35,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:35,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:35,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:35,928 	 DEBUG 	 AC 4: added token -> available tokens: 23 		
+Dcc, 00:41:35,928 	 DEBUG 	 AC 6: added token -> available tokens: 23 		
+Dcc, 00:41:35,928 	 DEBUG 	 AC 0: added token -> available tokens: 17 		
+Dcc, 00:41:35,928 	 DEBUG 	 AC 1: added token -> available tokens: 23 		
+Dcc, 00:41:36,231 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,231 	 INFO  	  		
+Dcc, 00:41:36,231 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,231 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,231 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 16 		
+Dcc, 00:41:36,231 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,231 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,332 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,332 	 INFO  	  		
+Dcc, 00:41:36,332 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,332 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,332 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 15 		
+Dcc, 00:41:36,332 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,332 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,432 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,432 	 INFO  	  		
+Dcc, 00:41:36,432 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,432 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,432 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 14 		
+Dcc, 00:41:36,433 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,433 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,533 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,533 	 INFO  	  		
+Dcc, 00:41:36,533 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,533 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,533 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 13 		
+Dcc, 00:41:36,533 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,533 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,634 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,634 	 INFO  	  		
+Dcc, 00:41:36,634 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,634 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,635 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 12 		
+Dcc, 00:41:36,635 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,635 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,735 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,735 	 INFO  	  		
+Dcc, 00:41:36,736 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,736 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,736 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 11 		
+Dcc, 00:41:36,736 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,736 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,838 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,838 	 INFO  	  		
+Dcc, 00:41:36,839 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,839 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,839 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 10 		
+Dcc, 00:41:36,839 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,839 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:36,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:36,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:36,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:36,938 	 DEBUG 	 CAM received 		
+Dcc, 00:41:36,938 	 INFO  	  		
+Dcc, 00:41:36,938 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:36,938 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:36,939 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 9 		
+Dcc, 00:41:36,939 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:36,939 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,040 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,040 	 INFO  	  		
+Dcc, 00:41:37,040 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,041 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,041 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 8 		
+Dcc, 00:41:37,041 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,041 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,141 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,141 	 INFO  	  		
+Dcc, 00:41:37,141 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,141 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,141 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 7 		
+Dcc, 00:41:37,141 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,141 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,241 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,242 	 INFO  	  		
+Dcc, 00:41:37,242 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,242 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,242 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 6 		
+Dcc, 00:41:37,242 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,242 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,343 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,343 	 INFO  	  		
+Dcc, 00:41:37,343 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,343 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,343 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 5 		
+Dcc, 00:41:37,343 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,343 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,444 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,444 	 INFO  	  		
+Dcc, 00:41:37,444 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,444 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,444 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 4 		
+Dcc, 00:41:37,444 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,444 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,545 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,545 	 INFO  	  		
+Dcc, 00:41:37,545 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,545 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,545 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 3 		
+Dcc, 00:41:37,545 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,545 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,646 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,646 	 INFO  	  		
+Dcc, 00:41:37,646 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,646 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,646 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 2 		
+Dcc, 00:41:37,646 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,646 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,746 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,746 	 INFO  	  		
+Dcc, 00:41:37,746 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,746 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,746 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 1 		
+Dcc, 00:41:37,746 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,746 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,847 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,847 	 INFO  	  		
+Dcc, 00:41:37,847 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,847 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,847 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 0 		
+Dcc, 00:41:37,848 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,848 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:37,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:37,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:37,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:37,928 	 DEBUG 	 AC 4: added token -> available tokens: 24 		
+Dcc, 00:41:37,928 	 DEBUG 	 AC 6: added token -> available tokens: 24 		
+Dcc, 00:41:37,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:41:37,928 	 DEBUG 	 AC 1: added token -> available tokens: 24 		
+Dcc, 00:41:37,948 	 DEBUG 	 CAM received 		
+Dcc, 00:41:37,948 	 INFO  	  		
+Dcc, 00:41:37,948 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:37,948 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:37,948 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 0 		
+Dcc, 00:41:37,948 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:37,948 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:38,048 	 DEBUG 	 CAM received 		
+Dcc, 00:41:38,048 	 INFO  	  		
+Dcc, 00:41:38,049 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:38,149 	 DEBUG 	 CAM received 		
+Dcc, 00:41:38,149 	 INFO  	  		
+Dcc, 00:41:38,149 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 2 		
+Dcc, 00:41:38,250 	 DEBUG 	 CAM received 		
+Dcc, 00:41:38,250 	 INFO  	  		
+Dcc, 00:41:38,250 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 3 		
+Dcc, 00:41:38,350 	 DEBUG 	 CAM received 		
+Dcc, 00:41:38,350 	 INFO  	  		
+Dcc, 00:41:38,350 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 4 		
+Dcc, 00:41:38,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:38,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:38,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:38,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:39,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:39,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:39,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:39,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:39,928 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 00:41:39,928 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 00:41:39,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:39,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:39,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:39,928 	 INFO  	 flushQueue: message 2 expired 		
+Dcc, 00:41:39,928 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 00:41:39,928 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 00:41:40,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:40,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:40,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:40,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:41,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:41,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:41,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:41,928 	 DEBUG 	 dccInfo sent 		
+Dcc, 00:41:41,928 	 DEBUG 	 AC 4: added token -> available tokens: 25 		
+Dcc, 00:41:41,928 	 DEBUG 	 AC 6: added token -> available tokens: 25 		
+Dcc, 00:41:41,928 	 DEBUG 	 AC 0: added token -> available tokens: 2 		
+Dcc, 00:41:41,928 	 DEBUG 	 AC 1: added token -> available tokens: 25 		
+Dcc, 00:41:42,546 	 DEBUG 	 CAM received 		
+Dcc, 00:41:42,546 	 INFO  	  		
+Dcc, 00:41:42,546 	 INFO  	 AC 0: received and enqueued CAM 2, queue length: 1 		
+Dcc, 00:41:42,546 	 INFO  	 HW: sending CAR Packet on Interface lo 		
+Dcc, 00:41:42,546 	 INFO  	 AC 0: Sent data 2 to HW -> queue length: 0, tokens: 1 		
+Dcc, 00:41:42,546 	 DEBUG 	 received own Message, discarding 		
+Dcc, 00:41:42,546 	 DEBUG 	 received own Message, discarding 		

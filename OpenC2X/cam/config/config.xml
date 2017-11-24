@@ -7,7 +7,7 @@
 	<thresholdRadiusForHeading>0.30</thresholdRadiusForHeading> <!-- in metres ! -->
 	
 	<!-- Basic Container in CAM -->
-	<typeofStation>15</typeofStation>  <!--select the station type from the enum list given below -->
+	<typeofStation>2</typeofStation>  <!--select the station type from the enum list given below -->
 	
 </cam>
 
@@ -20,5 +20,5 @@
 	StationType_unknown	= 0,
 	StationType_pedestrian	= 1,
 	StationType_cyclist	= 2,
-	StationType_roadSideUnit	= 15    -->
+	StationType_roadSideUnit= 15    -->
 

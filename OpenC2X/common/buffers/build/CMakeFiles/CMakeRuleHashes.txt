@@ -1,0 +1,25 @@
+# Hashes of file build rules.
+9409fcb9ea9f1a20a69fa9d3f62f471d BasicContainer.pb.cc
+da11ab94175c1022f788720e0eeb2d67 BasicVehicleHighFreqContainer.pb.cc
+5476cca4c0f613d5f6ec5a6b381186df BasicVehicleLowFreqContainer.pb.cc
+70d57814e3d56c0c1ed491a1dd7df01c CamParameters.pb.cc
+6b73c3cc314d1970a16ddf76d7397a21 CoopAwareness.pb.cc
+5f189639cadc4ccad6938d8eb2e186b3 DENMManagementContainer.pb.cc
+eeb4f44387e1b6eb1be6a1114a21bb8a DENMessage.pb.cc
+77158c2b8196a59e438ee2c2f238eca4 HighFreqContainer.pb.cc
+4cff3c2d804d3a6611f2f9cbc685c8a2 ItsPduHeader.pb.cc
+967149b20927ffa0d2798d6dde482780 LowFreqContainer.pb.cc
+93b739debb5b88792432e206eb12353f PathPoint.pb.cc
+258ef3834af6045ef370cd81e70457da ProtectedCommunicationZone.pb.cc
+5e49ab038dd604331d7bf26694a5ced0 RsuHighFreqContainer.pb.cc
+eef029b6d7f9678934f5edafc4bd2a8c SpecialVehicleContainer.pb.cc
+5cd8d1bc12e704c311b8562e64732468 VruHighFreqContainer.pb.cc
+cccadaf14f23f74cb4e105cd74862959 cam.pb.cc
+bfa63167050fba9197b55c7aa7ea4ea9 camInfo.pb.cc
+f2377c28516b2a9661b90752da0c5b5f data.pb.cc
+2c5d91b68f003dd05e811fcbfd9a7ae2 dccInfo.pb.cc
+4faa3e525c0abded3f86b1cc6de29f87 denm.pb.cc
+9e1fdccc3edf054c519e91f95eb06fe7 gps.pb.cc
+8bf28803643c76dd88e1056199a0f271 ldmData.pb.cc
+fa2b2f4fa3ffc669ee6a8ca4c5e4a65b obd2.pb.cc
+880ae162a315a056d79311959d570d3e trigger.pb.cc

@@ -1441,6 +1441,8 @@ BasicVehicleHighFreqContainer.pb.h
 ../common/buffers/build/BasicVehicleHighFreqContainer.pb.h
 RsuHighFreqContainer.pb.h
 ../common/buffers/build/RsuHighFreqContainer.pb.h
+VruHighFreqContainer.pb.h
+../common/buffers/build/VruHighFreqContainer.pb.h
 
 ../common/buffers/build/ItsPduHeader.pb.h
 string
@@ -1529,6 +1531,22 @@ ProtectedCommunicationZone.pb.h
 ../common/buffers/build/ProtectedCommunicationZone.pb.h
 
 ../common/buffers/build/SpecialVehicleContainer.pb.h
+string
+-
+google/protobuf/stubs/common.h
+-
+google/protobuf/generated_message_util.h
+-
+google/protobuf/message.h
+-
+google/protobuf/repeated_field.h
+-
+google/protobuf/extension_set.h
+-
+google/protobuf/unknown_field_set.h
+-
+
+../common/buffers/build/VruHighFreqContainer.pb.h
 string
 -
 google/protobuf/stubs/common.h

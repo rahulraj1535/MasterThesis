@@ -1,0 +1,6 @@
+CaService, 04:23:12,997 	 DEBUG 	 camInfo sent 		
+CaService, 04:23:12,997 	 INFO  	 deltaTime: 1511277792997729408 		
+CaService, 04:23:12,997 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 04:23:13,026 	 DEBUG 	 Received GPS with latitude: 51.732724, longitude: 8.735936 		
+CaService, 04:23:13,034 	 INFO  	 Encoded bytes: -1 		
+CaService, 04:23:13,126 	 DEBUG 	 Received GPS with latitude: 51.732724, longitude: 8.735936 		

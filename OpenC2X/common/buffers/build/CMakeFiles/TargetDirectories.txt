@@ -1,0 +1,8 @@
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/install.dir
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/list_install_components.dir
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/edit_cache.dir
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/rebuild_cache.dir
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/proto.dir
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/proto-config.dir
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/install/local.dir
+/home/rahul/VruHighFrqBuffer/build/CMakeFiles/install/strip.dir

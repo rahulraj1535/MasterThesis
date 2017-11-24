@@ -13,6 +13,7 @@ fdb4474fa91006b80d917b7a5488d2e9 common/buffers/PathPoint.pb.cc
 cf9991729f06306f02dacb687b17f413 common/buffers/ProtectedCommunicationZone.pb.cc
 c380f75073208d1427359e41a5589c7f common/buffers/RsuHighFreqContainer.pb.cc
 10ef188e5075ee67bc2dcea51e4ad9c4 common/buffers/SpecialVehicleContainer.pb.cc
+780e78afdf7da4b11d372437c8e46b29 common/buffers/VruHighFreqContainer.pb.cc
 e67d1821e9f8f555fc531371831f4273 common/buffers/cam.pb.cc
 e4e730b5d081bd438fd28c3f666829c7 common/buffers/camInfo.pb.cc
 70fe5a0f992f4e05a32d0a1f708b7327 common/buffers/data.pb.cc

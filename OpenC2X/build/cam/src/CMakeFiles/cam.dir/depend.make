@@ -150,6 +150,7 @@ cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/buffers/build/PathPoint.pb
 cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/buffers/build/ProtectedCommunicationZone.pb.h
 cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/buffers/build/RsuHighFreqContainer.pb.h
 cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/buffers/build/SpecialVehicleContainer.pb.h
+cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/buffers/build/VruHighFreqContainer.pb.h
 cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/config/config.h
 cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/utility/LoggingUtility.h
 cam/src/CMakeFiles/cam.dir/caservice.cpp.o: ../common/utility/external/easylogging++.h

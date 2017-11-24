@@ -1,0 +1,38 @@
+Dcc, 05:35:08,728 	 INFO  	 Current state: Relaxed 		
+Dcc, 05:35:08,733 	 INFO  	 start receiving via Hardware 		
+Dcc, 05:35:09,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:09,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:09,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:09,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:10,732 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:10,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:10,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:10,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:10,733 	 DEBUG 	 AC 4: added token -> available tokens: 1 		
+Dcc, 05:35:10,733 	 DEBUG 	 AC 6: added token -> available tokens: 1 		
+Dcc, 05:35:10,733 	 DEBUG 	 AC 0: added token -> available tokens: 1 		
+Dcc, 05:35:10,733 	 DEBUG 	 AC 1: added token -> available tokens: 1 		
+Dcc, 05:35:11,732 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:11,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:11,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:11,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:12,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:12,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:12,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:12,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:12,733 	 DEBUG 	 AC 4: added token -> available tokens: 2 		
+Dcc, 05:35:12,733 	 DEBUG 	 AC 6: added token -> available tokens: 2 		
+Dcc, 05:35:12,733 	 DEBUG 	 AC 0: added token -> available tokens: 2 		
+Dcc, 05:35:12,733 	 DEBUG 	 AC 1: added token -> available tokens: 2 		
+Dcc, 05:35:13,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:13,734 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:13,734 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:13,734 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:14,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:14,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:14,733 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:14,734 	 DEBUG 	 dccInfo sent 		
+Dcc, 05:35:14,734 	 DEBUG 	 AC 4: added token -> available tokens: 3 		
+Dcc, 05:35:14,734 	 DEBUG 	 AC 6: added token -> available tokens: 3 		
+Dcc, 05:35:14,734 	 DEBUG 	 AC 0: added token -> available tokens: 3 		
+Dcc, 05:35:14,734 	 DEBUG 	 AC 1: added token -> available tokens: 3 		

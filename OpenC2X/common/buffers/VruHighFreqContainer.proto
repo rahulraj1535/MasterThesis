@@ -1,0 +1,9 @@
+package its;
+
+message VruHighFreqContainer {
+	
+	required int64 heading = 1;
+	required int64 headingConfidence = 2;
+	required int64 speed = 3;
+	required int64 speedConfidence = 4;
+}

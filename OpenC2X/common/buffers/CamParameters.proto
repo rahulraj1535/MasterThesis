@@ -4,9 +4,11 @@ import "HighFreqContainer.proto";
 import "LowFreqContainer.proto";
 import "SpecialVehicleContainer.proto";
 
+
 message CamParameters {
 	required its.BasicContainer basicContainer = 1;
 	required its.HighFreqContainer highFreqContainer= 2;
 	optional its.LowFreqContainer lowFreqContainer = 3;
 	optional its.SpecialVehicleContainer specialVehicleContainer = 4;
+	
 }

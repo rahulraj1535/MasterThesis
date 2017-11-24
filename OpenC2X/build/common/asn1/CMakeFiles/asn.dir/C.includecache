@@ -1225,6 +1225,8 @@ BasicVehicleContainerHighFrequency.h
 /home/rahul/OpenC2Xgit/OpenC2X/common/asn1/BasicVehicleContainerHighFrequency.h
 RSUContainerHighFrequency.h
 /home/rahul/OpenC2Xgit/OpenC2X/common/asn1/RSUContainerHighFrequency.h
+VRUContainerHighFrequency.h
+/home/rahul/OpenC2Xgit/OpenC2X/common/asn1/VRUContainerHighFrequency.h
 constr_CHOICE.h
 -
 asn_internal.h

@@ -333,7 +333,7 @@ void CaService::send() {
 	dataPackage::DATA data;
 
 	// Standard compliant CAM
-	CAM_t* cam = generateCam();
+        CAM_t* cam = generateCam();
 	vector<uint8_t> encodedCam = mMsgUtils->encodeMessage(&asn_DEF_CAM, cam);
 	string strCam(encodedCam.begin(), encodedCam.end());
 	mLogger->logDebug("Encoded CAM size: " + to_string(strCam.length()));
@@ -436,7 +436,7 @@ cam->cam.camParameters.basicContainer.stationType = StationType_passengerCar;
 
 
 	// High frequency container
-	// Could be basic vehicle or RSU and have corresponding details
+
 	if(mConfig.mTypeofStation == 15) {
 		cam->cam.camParameters.highFrequencyContainer.present = HighFrequencyContainer_PR_rsuContainerHighFrequency;
 		// Optional fields in CAM from RSU
@@ -479,22 +479,21 @@ cam->cam.camParameters.basicContainer.stationType = StationType_passengerCar;
 		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.yawRate.yawRateValue = YawRateValue_unavailable;
 		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.yawRate.yawRateConfidence = YawRateConfidence_unavailable;
 
-	}
+        }
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+else if (mConfig.mTypeofStation == 2)
+		{
+		cam->cam.camParameters.highFrequencyContainer.present = HighFrequencyContainer_PR_vruContainerHighFrequency;
+                cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.heading.headingValue = HeadingValue_unavailable;
+                cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.heading.headingConfidence = HeadingConfidence_unavailable;
+                cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.speed.speedValue = SpeedValue_unavailable;
+                cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.speed.speedConfidence = SpeedConfidence_unavailable;
 
-else if (mConfig.mTypeofStation == 2){
-		cam->cam.camParameters.highFrequencyContainer.present = HighFrequencyContainer_PR_basicVehicleContainerHighFrequency;
-cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.heading.headingValue = HeadingValue_unavailable;
-		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.heading.headingConfidence = HeadingConfidence_unavailable;
-cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.speed.speedValue = SpeedValue_unavailable;
-		cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.speed.speedConfidence = SpeedConfidence_unavailable;
+}
 
-		
-
-	}
-
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Optional
 	//	cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.accelerationControl->
 	//	cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFrequency.cenDsrcTollingZone->
@@ -509,7 +508,7 @@ cam->cam.camParameters.highFrequencyContainer.choice.basicVehicleContainerHighFr
 	//	cam->cam.camParameters.specialVehicleContainer->present =
 
 	// Printing the cam structure
-	//	asn_fprint(stdout, &asn_DEF_CAM, cam);
+                asn_fprint(stdout, &asn_DEF_CAM, cam);
 
 
     //TODO: Free the allocated structure for cam. Is this enough?
@@ -548,6 +547,8 @@ camPackage::CAM CaService::convertAsn1toProtoBuf(CAM_t* cam) {
 	its::HighFreqContainer* highFreqContainer = new its::HighFreqContainer;
 	its::BasicVehicleHighFreqContainer* basicHighFreqContainer = 0;
 	its::RsuHighFreqContainer* rsuHighFreqContainer = 0;
+	its::VruHighFreqContainer* vruHighFreqContainer = 0;
+
 	switch (cam->cam.camParameters.highFrequencyContainer.present) {
 		case HighFrequencyContainer_PR_basicVehicleContainerHighFrequency:
 			highFreqContainer->set_type(its::HighFreqContainer_Type_BASIC_HIGH_FREQ_CONTAINER);
@@ -595,6 +596,24 @@ camPackage::CAM CaService::convertAsn1toProtoBuf(CAM_t* cam) {
 			highFreqContainer->set_allocated_rsuhighfreqcontainer(rsuHighFreqContainer);
 			break;
 
+
+
+
+		case HighFrequencyContainer_PR_vruContainerHighFrequency:
+			highFreqContainer->set_type(its::HighFreqContainer_Type_VRU_HIGH_FREQ_CONTAINER);
+
+			vruHighFreqContainer = new its::VruHighFreqContainer();
+			vruHighFreqContainer->set_heading(cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.heading.headingValue);
+			vruHighFreqContainer->set_headingconfidence(cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.heading.headingConfidence);
+			vruHighFreqContainer->set_speed(cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.speed.speedValue);
+			vruHighFreqContainer->set_speedconfidence(cam->cam.camParameters.highFrequencyContainer.choice.vruContainerHighFrequency.speed.speedConfidence);
+			highFreqContainer->set_allocated_vruhighfreqcontainer(vruHighFreqContainer);
+			break;
+
+
+
+
+
 		default:
 			break;
 	}
@@ -620,7 +639,10 @@ int main(int argc, const char* argv[]) {
 	if(argc != 5) {
 		fprintf(stderr, "missing arguments: %s <globalConfig.xml> <camConfig.xml> <logging.conf> <statistics.conf> \n", argv[0]);
 		exit(1);
-	}
+	} 
+
+
+
 
 	CaServiceConfig config;
 	try {
@@ -631,6 +653,7 @@ int main(int argc, const char* argv[]) {
 		return EXIT_FAILURE;
 	}
 	CaService cam(config, argv[1], argv[3], argv[4]);
+
 
 	return EXIT_SUCCESS;
 }

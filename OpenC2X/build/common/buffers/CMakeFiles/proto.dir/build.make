@@ -233,9 +233,17 @@ common/buffers/SpecialVehicleContainer.pb.cc: /usr/bin/protoc
 common/buffers/SpecialVehicleContainer.pb.h: common/buffers/SpecialVehicleContainer.pb.cc
 	@$(CMAKE_COMMAND) -E touch_nocreate common/buffers/SpecialVehicleContainer.pb.h
 
+common/buffers/VruHighFreqContainer.pb.cc: ../common/buffers/VruHighFreqContainer.proto
+common/buffers/VruHighFreqContainer.pb.cc: /usr/bin/protoc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Running C++ protocol buffer compiler on VruHighFreqContainer.proto"
+	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/protoc --cpp_out /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers -I /home/rahul/OpenC2Xgit/OpenC2X/common/buffers /home/rahul/OpenC2Xgit/OpenC2X/common/buffers/VruHighFreqContainer.proto
+
+common/buffers/VruHighFreqContainer.pb.h: common/buffers/VruHighFreqContainer.pb.cc
+	@$(CMAKE_COMMAND) -E touch_nocreate common/buffers/VruHighFreqContainer.pb.h
+
 common/buffers/trigger.pb.cc: ../common/buffers/trigger.proto
 common/buffers/trigger.pb.cc: /usr/bin/protoc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Running C++ protocol buffer compiler on trigger.proto"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Running C++ protocol buffer compiler on trigger.proto"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/protoc --cpp_out /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers -I /home/rahul/OpenC2Xgit/OpenC2X/common/buffers /home/rahul/OpenC2Xgit/OpenC2X/common/buffers/trigger.proto
 
 common/buffers/trigger.pb.h: common/buffers/trigger.pb.cc
@@ -243,7 +251,7 @@ common/buffers/trigger.pb.h: common/buffers/trigger.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/BasicContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/BasicContainer.pb.cc.o: common/buffers/BasicContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object common/buffers/CMakeFiles/proto.dir/BasicContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object common/buffers/CMakeFiles/proto.dir/BasicContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/BasicContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/BasicContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/BasicContainer.pb.cc.i: cmake_force
@@ -267,7 +275,7 @@ common/buffers/CMakeFiles/proto.dir/BasicContainer.pb.cc.o.provides.build: commo
 
 common/buffers/CMakeFiles/proto.dir/BasicVehicleHighFreqContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/BasicVehicleHighFreqContainer.pb.cc.o: common/buffers/BasicVehicleHighFreqContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object common/buffers/CMakeFiles/proto.dir/BasicVehicleHighFreqContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object common/buffers/CMakeFiles/proto.dir/BasicVehicleHighFreqContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/BasicVehicleHighFreqContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/BasicVehicleHighFreqContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/BasicVehicleHighFreqContainer.pb.cc.i: cmake_force
@@ -291,7 +299,7 @@ common/buffers/CMakeFiles/proto.dir/BasicVehicleHighFreqContainer.pb.cc.o.provid
 
 common/buffers/CMakeFiles/proto.dir/BasicVehicleLowFreqContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/BasicVehicleLowFreqContainer.pb.cc.o: common/buffers/BasicVehicleLowFreqContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object common/buffers/CMakeFiles/proto.dir/BasicVehicleLowFreqContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object common/buffers/CMakeFiles/proto.dir/BasicVehicleLowFreqContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/BasicVehicleLowFreqContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/BasicVehicleLowFreqContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/BasicVehicleLowFreqContainer.pb.cc.i: cmake_force
@@ -315,7 +323,7 @@ common/buffers/CMakeFiles/proto.dir/BasicVehicleLowFreqContainer.pb.cc.o.provide
 
 common/buffers/CMakeFiles/proto.dir/camInfo.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/camInfo.pb.cc.o: common/buffers/camInfo.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object common/buffers/CMakeFiles/proto.dir/camInfo.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object common/buffers/CMakeFiles/proto.dir/camInfo.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/camInfo.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/camInfo.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/camInfo.pb.cc.i: cmake_force
@@ -339,7 +347,7 @@ common/buffers/CMakeFiles/proto.dir/camInfo.pb.cc.o.provides.build: common/buffe
 
 common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o: common/buffers/CamParameters.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/CamParameters.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/CamParameters.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.i: cmake_force
@@ -363,7 +371,7 @@ common/buffers/CMakeFiles/proto.dir/CamParameters.pb.cc.o.provides.build: common
 
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o: common/buffers/cam.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/cam.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/cam.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/cam.pb.cc.i: cmake_force
@@ -387,7 +395,7 @@ common/buffers/CMakeFiles/proto.dir/cam.pb.cc.o.provides.build: common/buffers/C
 
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o: common/buffers/CoopAwareness.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/CoopAwareness.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/CoopAwareness.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.i: cmake_force
@@ -411,7 +419,7 @@ common/buffers/CMakeFiles/proto.dir/CoopAwareness.pb.cc.o.provides.build: common
 
 common/buffers/CMakeFiles/proto.dir/data.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/data.pb.cc.o: common/buffers/data.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object common/buffers/CMakeFiles/proto.dir/data.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object common/buffers/CMakeFiles/proto.dir/data.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/data.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/data.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/data.pb.cc.i: cmake_force
@@ -435,7 +443,7 @@ common/buffers/CMakeFiles/proto.dir/data.pb.cc.o.provides.build: common/buffers/
 
 common/buffers/CMakeFiles/proto.dir/dccInfo.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/dccInfo.pb.cc.o: common/buffers/dccInfo.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object common/buffers/CMakeFiles/proto.dir/dccInfo.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object common/buffers/CMakeFiles/proto.dir/dccInfo.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/dccInfo.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/dccInfo.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/dccInfo.pb.cc.i: cmake_force
@@ -459,7 +467,7 @@ common/buffers/CMakeFiles/proto.dir/dccInfo.pb.cc.o.provides.build: common/buffe
 
 common/buffers/CMakeFiles/proto.dir/DENMessage.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/DENMessage.pb.cc.o: common/buffers/DENMessage.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object common/buffers/CMakeFiles/proto.dir/DENMessage.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object common/buffers/CMakeFiles/proto.dir/DENMessage.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/DENMessage.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/DENMessage.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/DENMessage.pb.cc.i: cmake_force
@@ -483,7 +491,7 @@ common/buffers/CMakeFiles/proto.dir/DENMessage.pb.cc.o.provides.build: common/bu
 
 common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o: common/buffers/DENMManagementContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/DENMManagementContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.i: cmake_force
@@ -507,7 +515,7 @@ common/buffers/CMakeFiles/proto.dir/DENMManagementContainer.pb.cc.o.provides.bui
 
 common/buffers/CMakeFiles/proto.dir/denm.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/denm.pb.cc.o: common/buffers/denm.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object common/buffers/CMakeFiles/proto.dir/denm.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object common/buffers/CMakeFiles/proto.dir/denm.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/denm.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/denm.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/denm.pb.cc.i: cmake_force
@@ -531,7 +539,7 @@ common/buffers/CMakeFiles/proto.dir/denm.pb.cc.o.provides.build: common/buffers/
 
 common/buffers/CMakeFiles/proto.dir/gps.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/gps.pb.cc.o: common/buffers/gps.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object common/buffers/CMakeFiles/proto.dir/gps.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object common/buffers/CMakeFiles/proto.dir/gps.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/gps.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/gps.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/gps.pb.cc.i: cmake_force
@@ -555,7 +563,7 @@ common/buffers/CMakeFiles/proto.dir/gps.pb.cc.o.provides.build: common/buffers/C
 
 common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o: common/buffers/HighFreqContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/HighFreqContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.i: cmake_force
@@ -579,7 +587,7 @@ common/buffers/CMakeFiles/proto.dir/HighFreqContainer.pb.cc.o.provides.build: co
 
 common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o: common/buffers/ItsPduHeader.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ItsPduHeader.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.i: cmake_force
@@ -603,7 +611,7 @@ common/buffers/CMakeFiles/proto.dir/ItsPduHeader.pb.cc.o.provides.build: common/
 
 common/buffers/CMakeFiles/proto.dir/ldmData.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/ldmData.pb.cc.o: common/buffers/ldmData.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object common/buffers/CMakeFiles/proto.dir/ldmData.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object common/buffers/CMakeFiles/proto.dir/ldmData.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/ldmData.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ldmData.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/ldmData.pb.cc.i: cmake_force
@@ -627,7 +635,7 @@ common/buffers/CMakeFiles/proto.dir/ldmData.pb.cc.o.provides.build: common/buffe
 
 common/buffers/CMakeFiles/proto.dir/LowFreqContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/LowFreqContainer.pb.cc.o: common/buffers/LowFreqContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object common/buffers/CMakeFiles/proto.dir/LowFreqContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object common/buffers/CMakeFiles/proto.dir/LowFreqContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/LowFreqContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/LowFreqContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/LowFreqContainer.pb.cc.i: cmake_force
@@ -651,7 +659,7 @@ common/buffers/CMakeFiles/proto.dir/LowFreqContainer.pb.cc.o.provides.build: com
 
 common/buffers/CMakeFiles/proto.dir/obd2.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/obd2.pb.cc.o: common/buffers/obd2.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object common/buffers/CMakeFiles/proto.dir/obd2.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object common/buffers/CMakeFiles/proto.dir/obd2.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/obd2.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/obd2.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/obd2.pb.cc.i: cmake_force
@@ -675,7 +683,7 @@ common/buffers/CMakeFiles/proto.dir/obd2.pb.cc.o.provides.build: common/buffers/
 
 common/buffers/CMakeFiles/proto.dir/PathPoint.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/PathPoint.pb.cc.o: common/buffers/PathPoint.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object common/buffers/CMakeFiles/proto.dir/PathPoint.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object common/buffers/CMakeFiles/proto.dir/PathPoint.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/PathPoint.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/PathPoint.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/PathPoint.pb.cc.i: cmake_force
@@ -699,7 +707,7 @@ common/buffers/CMakeFiles/proto.dir/PathPoint.pb.cc.o.provides.build: common/buf
 
 common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o: common/buffers/ProtectedCommunicationZone.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/ProtectedCommunicationZone.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.i: cmake_force
@@ -723,7 +731,7 @@ common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o.provides.
 
 common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o: common/buffers/RsuHighFreqContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/RsuHighFreqContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.i: cmake_force
@@ -747,7 +755,7 @@ common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o.provides.build:
 
 common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o: common/buffers/SpecialVehicleContainer.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/SpecialVehicleContainer.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.i: cmake_force
@@ -769,9 +777,33 @@ common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o.provides: co
 common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o.provides.build: common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o
 
 
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o: common/buffers/VruHighFreqContainer.pb.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o"
+	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.cc
+
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.i"
+	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.cc > CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.i
+
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.s"
+	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/VruHighFreqContainer.pb.cc -o CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.s
+
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.requires:
+
+.PHONY : common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.requires
+
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.provides: common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.requires
+	$(MAKE) -f common/buffers/CMakeFiles/proto.dir/build.make common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.provides.build
+.PHONY : common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.provides
+
+common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.provides.build: common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o
+
+
 common/buffers/CMakeFiles/proto.dir/trigger.pb.cc.o: common/buffers/CMakeFiles/proto.dir/flags.make
 common/buffers/CMakeFiles/proto.dir/trigger.pb.cc.o: common/buffers/trigger.pb.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object common/buffers/CMakeFiles/proto.dir/trigger.pb.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object common/buffers/CMakeFiles/proto.dir/trigger.pb.cc.o"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proto.dir/trigger.pb.cc.o -c /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/trigger.pb.cc
 
 common/buffers/CMakeFiles/proto.dir/trigger.pb.cc.i: cmake_force
@@ -817,6 +849,7 @@ proto_OBJECTS = \
 "CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o" \
 "CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o" \
 "CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o" \
+"CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o" \
 "CMakeFiles/proto.dir/trigger.pb.cc.o"
 
 # External object files for target proto
@@ -844,10 +877,11 @@ common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/PathPoint.pb.cc.
 common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o
 common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o
 common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o
+common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o
 common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/trigger.pb.cc.o
 common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/build.make
 common/buffers/libproto.so: common/buffers/CMakeFiles/proto.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX shared library libproto.so"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rahul/OpenC2Xgit/OpenC2X/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX shared library libproto.so"
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/proto.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -877,6 +911,7 @@ common/buffers/CMakeFiles/proto.dir/requires: common/buffers/CMakeFiles/proto.di
 common/buffers/CMakeFiles/proto.dir/requires: common/buffers/CMakeFiles/proto.dir/ProtectedCommunicationZone.pb.cc.o.requires
 common/buffers/CMakeFiles/proto.dir/requires: common/buffers/CMakeFiles/proto.dir/RsuHighFreqContainer.pb.cc.o.requires
 common/buffers/CMakeFiles/proto.dir/requires: common/buffers/CMakeFiles/proto.dir/SpecialVehicleContainer.pb.cc.o.requires
+common/buffers/CMakeFiles/proto.dir/requires: common/buffers/CMakeFiles/proto.dir/VruHighFreqContainer.pb.cc.o.requires
 common/buffers/CMakeFiles/proto.dir/requires: common/buffers/CMakeFiles/proto.dir/trigger.pb.cc.o.requires
 
 .PHONY : common/buffers/CMakeFiles/proto.dir/requires
@@ -929,6 +964,8 @@ common/buffers/CMakeFiles/proto.dir/depend: common/buffers/RsuHighFreqContainer.
 common/buffers/CMakeFiles/proto.dir/depend: common/buffers/RsuHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/depend: common/buffers/SpecialVehicleContainer.pb.cc
 common/buffers/CMakeFiles/proto.dir/depend: common/buffers/SpecialVehicleContainer.pb.h
+common/buffers/CMakeFiles/proto.dir/depend: common/buffers/VruHighFreqContainer.pb.cc
+common/buffers/CMakeFiles/proto.dir/depend: common/buffers/VruHighFreqContainer.pb.h
 common/buffers/CMakeFiles/proto.dir/depend: common/buffers/trigger.pb.cc
 common/buffers/CMakeFiles/proto.dir/depend: common/buffers/trigger.pb.h
 	cd /home/rahul/OpenC2Xgit/OpenC2X/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/rahul/OpenC2Xgit/OpenC2X /home/rahul/OpenC2Xgit/OpenC2X/common/buffers /home/rahul/OpenC2Xgit/OpenC2X/build /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers /home/rahul/OpenC2Xgit/OpenC2X/build/common/buffers/CMakeFiles/proto.dir/DependInfo.cmake --color=$(COLOR)

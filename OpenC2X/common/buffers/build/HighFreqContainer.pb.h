@@ -27,6 +27,7 @@
 #include <google/protobuf/unknown_field_set.h>
 #include "BasicVehicleHighFreqContainer.pb.h"
 #include "RsuHighFreqContainer.pb.h"
+#include "VruHighFreqContainer.pb.h"
 // @@protoc_insertion_point(includes)
 
 namespace its {
@@ -40,11 +41,12 @@ class HighFreqContainer;
 
 enum HighFreqContainer_Type {
   HighFreqContainer_Type_BASIC_HIGH_FREQ_CONTAINER = 1,
-  HighFreqContainer_Type_RSU_HIGH_FREQ_CONTAINER = 2
+  HighFreqContainer_Type_RSU_HIGH_FREQ_CONTAINER = 2,
+  HighFreqContainer_Type_VRU_HIGH_FREQ_CONTAINER = 3
 };
 bool HighFreqContainer_Type_IsValid(int value);
 const HighFreqContainer_Type HighFreqContainer_Type_Type_MIN = HighFreqContainer_Type_BASIC_HIGH_FREQ_CONTAINER;
-const HighFreqContainer_Type HighFreqContainer_Type_Type_MAX = HighFreqContainer_Type_RSU_HIGH_FREQ_CONTAINER;
+const HighFreqContainer_Type HighFreqContainer_Type_Type_MAX = HighFreqContainer_Type_VRU_HIGH_FREQ_CONTAINER;
 const int HighFreqContainer_Type_Type_ARRAYSIZE = HighFreqContainer_Type_Type_MAX + 1;
 
 const ::google::protobuf::EnumDescriptor* HighFreqContainer_Type_descriptor();
@@ -113,6 +115,7 @@ class HighFreqContainer : public ::google::protobuf::Message {
   typedef HighFreqContainer_Type Type;
   static const Type BASIC_HIGH_FREQ_CONTAINER = HighFreqContainer_Type_BASIC_HIGH_FREQ_CONTAINER;
   static const Type RSU_HIGH_FREQ_CONTAINER = HighFreqContainer_Type_RSU_HIGH_FREQ_CONTAINER;
+  static const Type VRU_HIGH_FREQ_CONTAINER = HighFreqContainer_Type_VRU_HIGH_FREQ_CONTAINER;
   static inline bool Type_IsValid(int value) {
     return HighFreqContainer_Type_IsValid(value);
   }
@@ -161,6 +164,15 @@ class HighFreqContainer : public ::google::protobuf::Message {
   inline ::its::RsuHighFreqContainer* release_rsuhighfreqcontainer();
   inline void set_allocated_rsuhighfreqcontainer(::its::RsuHighFreqContainer* rsuhighfreqcontainer);
 
+  // optional .its.VruHighFreqContainer vruHighFreqContainer = 4;
+  inline bool has_vruhighfreqcontainer() const;
+  inline void clear_vruhighfreqcontainer();
+  static const int kVruHighFreqContainerFieldNumber = 4;
+  inline const ::its::VruHighFreqContainer& vruhighfreqcontainer() const;
+  inline ::its::VruHighFreqContainer* mutable_vruhighfreqcontainer();
+  inline ::its::VruHighFreqContainer* release_vruhighfreqcontainer();
+  inline void set_allocated_vruhighfreqcontainer(::its::VruHighFreqContainer* vruhighfreqcontainer);
+
   // @@protoc_insertion_point(class_scope:its.HighFreqContainer)
  private:
   inline void set_has_type();
@@ -169,6 +181,8 @@ class HighFreqContainer : public ::google::protobuf::Message {
   inline void clear_has_basicvehiclehighfreqcontainer();
   inline void set_has_rsuhighfreqcontainer();
   inline void clear_has_rsuhighfreqcontainer();
+  inline void set_has_vruhighfreqcontainer();
+  inline void clear_has_vruhighfreqcontainer();
 
   ::google::protobuf::UnknownFieldSet _unknown_fields_;
 
@@ -176,6 +190,7 @@ class HighFreqContainer : public ::google::protobuf::Message {
   mutable int _cached_size_;
   ::its::BasicVehicleHighFreqContainer* basicvehiclehighfreqcontainer_;
   ::its::RsuHighFreqContainer* rsuhighfreqcontainer_;
+  ::its::VruHighFreqContainer* vruhighfreqcontainer_;
   int type_;
   friend void  protobuf_AddDesc_HighFreqContainer_2eproto();
   friend void protobuf_AssignDesc_HighFreqContainer_2eproto();
@@ -296,6 +311,47 @@ inline void HighFreqContainer::set_allocated_rsuhighfreqcontainer(::its::RsuHigh
     clear_has_rsuhighfreqcontainer();
   }
   // @@protoc_insertion_point(field_set_allocated:its.HighFreqContainer.rsuHighFreqContainer)
+}
+
+// optional .its.VruHighFreqContainer vruHighFreqContainer = 4;
+inline bool HighFreqContainer::has_vruhighfreqcontainer() const {
+  return (_has_bits_[0] & 0x00000008u) != 0;
+}
+inline void HighFreqContainer::set_has_vruhighfreqcontainer() {
+  _has_bits_[0] |= 0x00000008u;
+}
+inline void HighFreqContainer::clear_has_vruhighfreqcontainer() {
+  _has_bits_[0] &= ~0x00000008u;
+}
+inline void HighFreqContainer::clear_vruhighfreqcontainer() {
+  if (vruhighfreqcontainer_ != NULL) vruhighfreqcontainer_->::its::VruHighFreqContainer::Clear();
+  clear_has_vruhighfreqcontainer();
+}
+inline const ::its::VruHighFreqContainer& HighFreqContainer::vruhighfreqcontainer() const {
+  // @@protoc_insertion_point(field_get:its.HighFreqContainer.vruHighFreqContainer)
+  return vruhighfreqcontainer_ != NULL ? *vruhighfreqcontainer_ : *default_instance_->vruhighfreqcontainer_;
+}
+inline ::its::VruHighFreqContainer* HighFreqContainer::mutable_vruhighfreqcontainer() {
+  set_has_vruhighfreqcontainer();
+  if (vruhighfreqcontainer_ == NULL) vruhighfreqcontainer_ = new ::its::VruHighFreqContainer;
+  // @@protoc_insertion_point(field_mutable:its.HighFreqContainer.vruHighFreqContainer)
+  return vruhighfreqcontainer_;
+}
+inline ::its::VruHighFreqContainer* HighFreqContainer::release_vruhighfreqcontainer() {
+  clear_has_vruhighfreqcontainer();
+  ::its::VruHighFreqContainer* temp = vruhighfreqcontainer_;
+  vruhighfreqcontainer_ = NULL;
+  return temp;
+}
+inline void HighFreqContainer::set_allocated_vruhighfreqcontainer(::its::VruHighFreqContainer* vruhighfreqcontainer) {
+  delete vruhighfreqcontainer_;
+  vruhighfreqcontainer_ = vruhighfreqcontainer;
+  if (vruhighfreqcontainer) {
+    set_has_vruhighfreqcontainer();
+  } else {
+    clear_has_vruhighfreqcontainer();
+  }
+  // @@protoc_insertion_point(field_set_allocated:its.HighFreqContainer.vruHighFreqContainer)
 }
 
 

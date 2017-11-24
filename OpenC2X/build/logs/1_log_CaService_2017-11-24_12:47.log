@@ -1,0 +1,5 @@
+CaService, 00:47:48,264 	 DEBUG 	 camInfo sent 		
+CaService, 00:47:48,264 	 INFO  	 deltaTime: 1511524068264065611 		
+CaService, 00:47:48,264 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 00:47:48,709 	 DEBUG 	 Received OBD2 with speed (m/s): 0.000000 		
+CaService, 00:47:48,736 	 INFO  	 Encoded bytes: -1 		

@@ -527,6 +527,8 @@ BasicVehicleContainerHighFrequency.h
 ../common/asn1/BasicVehicleContainerHighFrequency.h
 RSUContainerHighFrequency.h
 ../common/asn1/RSUContainerHighFrequency.h
+VRUContainerHighFrequency.h
+../common/asn1/VRUContainerHighFrequency.h
 constr_CHOICE.h
 -
 asn_internal.h

@@ -1,0 +1,736 @@
+CaService, 09:50:30,854 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:30,854 	 INFO  	 deltaTime: 1511297430854313822 		
+CaService, 09:50:30,854 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:30,854 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:30,854 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:30,854 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:30,854 	 DEBUG 	 CAM sent 		
+CaService, 09:50:30,855 	 DEBUG 	 CAM sent 		
+CaService, 09:50:30,896 	 DEBUG 	 Received GPS with latitude: 51.732724, longitude: 8.735936 		
+CaService, 09:50:30,955 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:30,955 	 INFO  	 First GPS data 		
+CaService, 09:50:30,955 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:30,955 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:30,955 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:30,955 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:30,955 	 DEBUG 	 CAM sent 		
+CaService, 09:50:30,955 	 DEBUG 	 CAM sent 		
+CaService, 09:50:30,996 	 DEBUG 	 Received GPS with latitude: 51.732724, longitude: 8.735936 		
+CaService, 09:50:31,055 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:31,097 	 DEBUG 	 Received GPS with latitude: 51.732724, longitude: 8.735936 		
+CaService, 09:50:31,155 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:31,198 	 DEBUG 	 Received GPS with latitude: 51.732724, longitude: 8.735936 		
+CaService, 09:50:31,257 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:31,298 	 DEBUG 	 Received GPS with latitude: 51.732725, longitude: 8.735936 		
+CaService, 09:50:31,310 	 DEBUG 	 Received OBD2 with speed (m/s): 0.000000 		
+CaService, 09:50:31,357 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:31,399 	 DEBUG 	 Received GPS with latitude: 51.732727, longitude: 8.735936 		
+CaService, 09:50:31,457 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:31,499 	 DEBUG 	 Received GPS with latitude: 51.732728, longitude: 8.735936 		
+CaService, 09:50:31,600 	 DEBUG 	 Received GPS with latitude: 51.732728, longitude: 8.735936 		
+CaService, 09:50:31,700 	 DEBUG 	 Received GPS with latitude: 51.732728, longitude: 8.735936 		
+CaService, 09:50:31,801 	 DEBUG 	 Received GPS with latitude: 51.732728, longitude: 8.735936 		
+CaService, 09:50:31,810 	 DEBUG 	 Received OBD2 with speed (m/s): 40.000000 		
+CaService, 09:50:31,858 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:31,858 	 INFO  	 deltaSpeed: 40.000000 		
+CaService, 09:50:31,858 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:31,858 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:31,858 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:31,858 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:31,858 	 DEBUG 	 CAM sent 		
+CaService, 09:50:31,858 	 DEBUG 	 CAM sent 		
+CaService, 09:50:31,901 	 DEBUG 	 Received GPS with latitude: 51.732728, longitude: 8.735936 		
+CaService, 09:50:31,958 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:32,002 	 DEBUG 	 Received GPS with latitude: 51.732730, longitude: 8.735936 		
+CaService, 09:50:32,058 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:32,102 	 DEBUG 	 Received GPS with latitude: 51.732731, longitude: 8.735936 		
+CaService, 09:50:32,203 	 DEBUG 	 Received GPS with latitude: 51.732731, longitude: 8.735936 		
+CaService, 09:50:32,303 	 DEBUG 	 Received GPS with latitude: 51.732732, longitude: 8.735936 		
+CaService, 09:50:32,311 	 DEBUG 	 Received OBD2 with speed (m/s): 0.000000 		
+CaService, 09:50:32,359 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:32,359 	 INFO  	 deltaSpeed: 40.000000 		
+CaService, 09:50:32,359 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:32,359 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:32,359 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:32,359 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:32,359 	 DEBUG 	 CAM sent 		
+CaService, 09:50:32,359 	 DEBUG 	 CAM sent 		
+CaService, 09:50:32,404 	 DEBUG 	 Received GPS with latitude: 51.732732, longitude: 8.735936 		
+CaService, 09:50:32,459 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:32,505 	 DEBUG 	 Received GPS with latitude: 51.732732, longitude: 8.735936 		
+CaService, 09:50:32,559 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:32,605 	 DEBUG 	 Received GPS with latitude: 51.732733, longitude: 8.735936 		
+CaService, 09:50:32,659 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:32,706 	 DEBUG 	 Received GPS with latitude: 51.732734, longitude: 8.735936 		
+CaService, 09:50:32,760 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:32,807 	 DEBUG 	 Received GPS with latitude: 51.732735, longitude: 8.735936 		
+CaService, 09:50:32,812 	 DEBUG 	 Received OBD2 with speed (m/s): 90.000000 		
+CaService, 09:50:32,860 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:32,860 	 INFO  	 deltaSpeed: 90.000000 		
+CaService, 09:50:32,860 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:32,860 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:32,860 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:32,860 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:32,860 	 DEBUG 	 CAM sent 		
+CaService, 09:50:32,860 	 DEBUG 	 CAM sent 		
+CaService, 09:50:32,907 	 DEBUG 	 Received GPS with latitude: 51.732736, longitude: 8.735936 		
+CaService, 09:50:32,960 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:33,008 	 DEBUG 	 Received GPS with latitude: 51.732737, longitude: 8.735936 		
+CaService, 09:50:33,108 	 DEBUG 	 Received GPS with latitude: 51.732740, longitude: 8.735936 		
+CaService, 09:50:33,209 	 DEBUG 	 Received GPS with latitude: 51.732741, longitude: 8.735936 		
+CaService, 09:50:33,309 	 DEBUG 	 Received GPS with latitude: 51.732743, longitude: 8.735936 		
+CaService, 09:50:33,312 	 DEBUG 	 Received OBD2 with speed (m/s): 150.000000 		
+CaService, 09:50:33,361 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:33,361 	 INFO  	 deltaSpeed: 60.000000 		
+CaService, 09:50:33,361 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:33,361 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:33,361 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:33,361 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:33,361 	 DEBUG 	 CAM sent 		
+CaService, 09:50:33,361 	 DEBUG 	 CAM sent 		
+CaService, 09:50:33,410 	 DEBUG 	 Received GPS with latitude: 51.732743, longitude: 8.735936 		
+CaService, 09:50:33,461 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:33,510 	 DEBUG 	 Received GPS with latitude: 51.732744, longitude: 8.735936 		
+CaService, 09:50:33,561 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:33,611 	 DEBUG 	 Received GPS with latitude: 51.732745, longitude: 8.735936 		
+CaService, 09:50:33,661 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:33,711 	 DEBUG 	 Received GPS with latitude: 51.732745, longitude: 8.735936 		
+CaService, 09:50:33,812 	 DEBUG 	 Received GPS with latitude: 51.732747, longitude: 8.735936 		
+CaService, 09:50:33,813 	 DEBUG 	 Received OBD2 with speed (m/s): 120.000000 		
+CaService, 09:50:33,862 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:33,862 	 INFO  	 deltaSpeed: 30.000000 		
+CaService, 09:50:33,862 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:33,862 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:33,862 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:33,862 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:33,862 	 DEBUG 	 CAM sent 		
+CaService, 09:50:33,862 	 DEBUG 	 CAM sent 		
+CaService, 09:50:33,912 	 DEBUG 	 Received GPS with latitude: 51.732749, longitude: 8.735936 		
+CaService, 09:50:33,962 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:34,013 	 DEBUG 	 Received GPS with latitude: 51.732751, longitude: 8.735936 		
+CaService, 09:50:34,114 	 DEBUG 	 Received GPS with latitude: 51.732754, longitude: 8.735936 		
+CaService, 09:50:34,215 	 DEBUG 	 Received GPS with latitude: 51.732758, longitude: 8.735936 		
+CaService, 09:50:34,313 	 DEBUG 	 Received OBD2 with speed (m/s): 20.000000 		
+CaService, 09:50:34,315 	 DEBUG 	 Received GPS with latitude: 51.732761, longitude: 8.735936 		
+CaService, 09:50:34,362 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:34,363 	 INFO  	 deltaSpeed: 100.000000 		
+CaService, 09:50:34,363 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:34,363 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:34,363 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:34,363 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:34,363 	 DEBUG 	 CAM sent 		
+CaService, 09:50:34,363 	 DEBUG 	 CAM sent 		
+CaService, 09:50:34,416 	 DEBUG 	 Received GPS with latitude: 51.732764, longitude: 8.735936 		
+CaService, 09:50:34,516 	 DEBUG 	 Received GPS with latitude: 51.732768, longitude: 8.735936 		
+CaService, 09:50:34,618 	 DEBUG 	 Received GPS with latitude: 51.732770, longitude: 8.735936 		
+CaService, 09:50:34,718 	 DEBUG 	 Received GPS with latitude: 51.732773, longitude: 8.735936 		
+CaService, 09:50:34,814 	 DEBUG 	 Received OBD2 with speed (m/s): 0.000000 		
+CaService, 09:50:34,818 	 DEBUG 	 Received GPS with latitude: 51.732776, longitude: 8.735936 		
+CaService, 09:50:34,863 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:34,863 	 INFO  	 deltaSpeed: 20.000000 		
+CaService, 09:50:34,863 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:34,864 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:34,864 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:34,864 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:34,864 	 DEBUG 	 CAM sent 		
+CaService, 09:50:34,864 	 DEBUG 	 CAM sent 		
+CaService, 09:50:34,919 	 DEBUG 	 Received GPS with latitude: 51.732780, longitude: 8.735936 		
+CaService, 09:50:35,020 	 DEBUG 	 Received GPS with latitude: 51.732784, longitude: 8.735936 		
+CaService, 09:50:35,121 	 DEBUG 	 Received GPS with latitude: 51.732790, longitude: 8.735936 		
+CaService, 09:50:35,221 	 DEBUG 	 Received GPS with latitude: 51.732794, longitude: 8.735936 		
+CaService, 09:50:35,314 	 DEBUG 	 Received OBD2 with speed (m/s): 10.000000 		
+CaService, 09:50:35,322 	 DEBUG 	 Received GPS with latitude: 51.732798, longitude: 8.735936 		
+CaService, 09:50:35,364 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:35,364 	 INFO  	 deltaSpeed: 10.000000 		
+CaService, 09:50:35,364 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:35,364 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:35,364 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:35,364 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:35,364 	 DEBUG 	 CAM sent 		
+CaService, 09:50:35,364 	 DEBUG 	 CAM sent 		
+CaService, 09:50:35,423 	 DEBUG 	 Received GPS with latitude: 51.732804, longitude: 8.735936 		
+CaService, 09:50:35,523 	 DEBUG 	 Received GPS with latitude: 51.732807, longitude: 8.735936 		
+CaService, 09:50:35,624 	 DEBUG 	 Received GPS with latitude: 51.732812, longitude: 8.735936 		
+CaService, 09:50:35,724 	 DEBUG 	 Received GPS with latitude: 51.732816, longitude: 8.735936 		
+CaService, 09:50:35,815 	 DEBUG 	 Received OBD2 with speed (m/s): 70.000000 		
+CaService, 09:50:35,825 	 DEBUG 	 Received GPS with latitude: 51.732820, longitude: 8.735936 		
+CaService, 09:50:35,865 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:35,865 	 INFO  	 deltaSpeed: 60.000000 		
+CaService, 09:50:35,865 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:35,865 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:35,865 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:35,865 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:35,865 	 DEBUG 	 CAM sent 		
+CaService, 09:50:35,865 	 DEBUG 	 CAM sent 		
+CaService, 09:50:35,926 	 DEBUG 	 Received GPS with latitude: 51.732824, longitude: 8.735936 		
+CaService, 09:50:36,027 	 DEBUG 	 Received GPS with latitude: 51.732826, longitude: 8.735936 		
+CaService, 09:50:36,128 	 DEBUG 	 Received GPS with latitude: 51.732829, longitude: 8.735936 		
+CaService, 09:50:36,228 	 DEBUG 	 Received GPS with latitude: 51.732832, longitude: 8.735936 		
+CaService, 09:50:36,315 	 DEBUG 	 Received OBD2 with speed (m/s): 150.000000 		
+CaService, 09:50:36,329 	 DEBUG 	 Received GPS with latitude: 51.732834, longitude: 8.735936 		
+CaService, 09:50:36,365 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:36,365 	 INFO  	 deltaSpeed: 80.000000 		
+CaService, 09:50:36,365 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:36,366 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:36,366 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:36,366 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:36,366 	 DEBUG 	 CAM sent 		
+CaService, 09:50:36,366 	 DEBUG 	 CAM sent 		
+CaService, 09:50:36,430 	 DEBUG 	 Received GPS with latitude: 51.732838, longitude: 8.735936 		
+CaService, 09:50:36,530 	 DEBUG 	 Received GPS with latitude: 51.732841, longitude: 8.735936 		
+CaService, 09:50:36,631 	 DEBUG 	 Received GPS with latitude: 51.732844, longitude: 8.735936 		
+CaService, 09:50:36,731 	 DEBUG 	 Received GPS with latitude: 51.732847, longitude: 8.735936 		
+CaService, 09:50:36,816 	 DEBUG 	 Received OBD2 with speed (m/s): 110.000000 		
+CaService, 09:50:36,832 	 DEBUG 	 Received GPS with latitude: 51.732851, longitude: 8.735936 		
+CaService, 09:50:36,866 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:36,866 	 INFO  	 deltaSpeed: 40.000000 		
+CaService, 09:50:36,866 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:36,866 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:36,866 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:36,866 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:36,866 	 DEBUG 	 CAM sent 		
+CaService, 09:50:36,866 	 DEBUG 	 CAM sent 		
+CaService, 09:50:36,933 	 DEBUG 	 Received GPS with latitude: 51.732854, longitude: 8.735936 		
+CaService, 09:50:37,034 	 DEBUG 	 Received GPS with latitude: 51.732858, longitude: 8.735936 		
+CaService, 09:50:37,134 	 DEBUG 	 Received GPS with latitude: 51.732861, longitude: 8.735936 		
+CaService, 09:50:37,236 	 DEBUG 	 Received GPS with latitude: 51.732865, longitude: 8.735936 		
+CaService, 09:50:37,317 	 DEBUG 	 Received OBD2 with speed (m/s): 60.000000 		
+CaService, 09:50:37,336 	 DEBUG 	 Received GPS with latitude: 51.732869, longitude: 8.735936 		
+CaService, 09:50:37,367 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:37,367 	 INFO  	 deltaSpeed: 50.000000 		
+CaService, 09:50:37,367 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:37,367 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:37,367 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:37,367 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:37,367 	 DEBUG 	 CAM sent 		
+CaService, 09:50:37,367 	 DEBUG 	 CAM sent 		
+CaService, 09:50:37,437 	 DEBUG 	 Received GPS with latitude: 51.732872, longitude: 8.735936 		
+CaService, 09:50:37,537 	 DEBUG 	 Received GPS with latitude: 51.732875, longitude: 8.735936 		
+CaService, 09:50:37,638 	 DEBUG 	 Received GPS with latitude: 51.732879, longitude: 8.735936 		
+CaService, 09:50:37,739 	 DEBUG 	 Received GPS with latitude: 51.732883, longitude: 8.735936 		
+CaService, 09:50:37,817 	 DEBUG 	 Received OBD2 with speed (m/s): 30.000000 		
+CaService, 09:50:37,839 	 DEBUG 	 Received GPS with latitude: 51.732886, longitude: 8.735936 		
+CaService, 09:50:37,868 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:37,868 	 INFO  	 deltaSpeed: 30.000000 		
+CaService, 09:50:37,868 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:37,868 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:37,868 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:37,868 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:37,868 	 DEBUG 	 CAM sent 		
+CaService, 09:50:37,868 	 DEBUG 	 CAM sent 		
+CaService, 09:50:37,940 	 DEBUG 	 Received GPS with latitude: 51.732889, longitude: 8.735936 		
+CaService, 09:50:38,041 	 DEBUG 	 Received GPS with latitude: 51.732891, longitude: 8.735936 		
+CaService, 09:50:38,141 	 DEBUG 	 Received GPS with latitude: 51.732893, longitude: 8.735936 		
+CaService, 09:50:38,243 	 DEBUG 	 Received GPS with latitude: 51.732894, longitude: 8.735936 		
+CaService, 09:50:38,318 	 DEBUG 	 Received OBD2 with speed (m/s): 60.000000 		
+CaService, 09:50:38,343 	 DEBUG 	 Received GPS with latitude: 51.732895, longitude: 8.735936 		
+CaService, 09:50:38,369 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:38,369 	 INFO  	 deltaSpeed: 30.000000 		
+CaService, 09:50:38,369 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:38,369 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:38,369 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:38,369 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:38,369 	 DEBUG 	 CAM sent 		
+CaService, 09:50:38,369 	 DEBUG 	 CAM sent 		
+CaService, 09:50:38,444 	 DEBUG 	 Received GPS with latitude: 51.732897, longitude: 8.735936 		
+CaService, 09:50:38,469 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:38,544 	 DEBUG 	 Received GPS with latitude: 51.732898, longitude: 8.735936 		
+CaService, 09:50:38,645 	 DEBUG 	 Received GPS with latitude: 51.732899, longitude: 8.735936 		
+CaService, 09:50:38,746 	 DEBUG 	 Received GPS with latitude: 51.732900, longitude: 8.735936 		
+CaService, 09:50:38,819 	 DEBUG 	 Received OBD2 with speed (m/s): 30.000000 		
+CaService, 09:50:38,847 	 DEBUG 	 Received GPS with latitude: 51.732902, longitude: 8.735936 		
+CaService, 09:50:38,869 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:38,869 	 INFO  	 deltaSpeed: 30.000000 		
+CaService, 09:50:38,869 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:38,869 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:38,869 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:38,869 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:38,870 	 DEBUG 	 CAM sent 		
+CaService, 09:50:38,870 	 DEBUG 	 CAM sent 		
+CaService, 09:50:38,947 	 DEBUG 	 Received GPS with latitude: 51.732904, longitude: 8.735936 		
+CaService, 09:50:38,970 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:39,048 	 DEBUG 	 Received GPS with latitude: 51.732907, longitude: 8.735936 		
+CaService, 09:50:39,148 	 DEBUG 	 Received GPS with latitude: 51.732908, longitude: 8.735936 		
+CaService, 09:50:39,249 	 DEBUG 	 Received GPS with latitude: 51.732911, longitude: 8.735936 		
+CaService, 09:50:39,319 	 DEBUG 	 Received OBD2 with speed (m/s): 80.000000 		
+CaService, 09:50:39,350 	 DEBUG 	 Received GPS with latitude: 51.732913, longitude: 8.735936 		
+CaService, 09:50:39,370 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:39,370 	 INFO  	 deltaSpeed: 50.000000 		
+CaService, 09:50:39,370 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:39,370 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:39,370 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:39,370 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:39,370 	 DEBUG 	 CAM sent 		
+CaService, 09:50:39,370 	 DEBUG 	 CAM sent 		
+CaService, 09:50:39,450 	 DEBUG 	 Received GPS with latitude: 51.732914, longitude: 8.735936 		
+CaService, 09:50:39,470 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:39,551 	 DEBUG 	 Received GPS with latitude: 51.732916, longitude: 8.735936 		
+CaService, 09:50:39,651 	 DEBUG 	 Received GPS with latitude: 51.732917, longitude: 8.735936 		
+CaService, 09:50:39,752 	 DEBUG 	 Received GPS with latitude: 51.732918, longitude: 8.735936 		
+CaService, 09:50:39,820 	 DEBUG 	 Received OBD2 with speed (m/s): 80.000000 		
+CaService, 09:50:39,853 	 DEBUG 	 Received GPS with latitude: 51.732920, longitude: 8.735936 		
+CaService, 09:50:39,953 	 DEBUG 	 Received GPS with latitude: 51.732921, longitude: 8.735936 		
+CaService, 09:50:40,054 	 DEBUG 	 Received GPS with latitude: 51.732922, longitude: 8.735936 		
+CaService, 09:50:40,154 	 DEBUG 	 Received GPS with latitude: 51.732923, longitude: 8.735936 		
+CaService, 09:50:40,255 	 DEBUG 	 Received GPS with latitude: 51.732924, longitude: 8.735936 		
+CaService, 09:50:40,320 	 DEBUG 	 Received OBD2 with speed (m/s): 80.000000 		
+CaService, 09:50:40,356 	 DEBUG 	 Received GPS with latitude: 51.732925, longitude: 8.735936 		
+CaService, 09:50:40,371 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:40,371 	 INFO  	 deltaTime: 1000896076 		
+CaService, 09:50:40,371 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:40,371 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:40,371 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:40,371 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:40,371 	 DEBUG 	 CAM sent 		
+CaService, 09:50:40,371 	 DEBUG 	 CAM sent 		
+CaService, 09:50:40,456 	 DEBUG 	 Received GPS with latitude: 51.732927, longitude: 8.735936 		
+CaService, 09:50:40,471 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:40,557 	 DEBUG 	 Received GPS with latitude: 51.732928, longitude: 8.735936 		
+CaService, 09:50:40,572 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:40,658 	 DEBUG 	 Received GPS with latitude: 51.732929, longitude: 8.735936 		
+CaService, 09:50:40,759 	 DEBUG 	 Received GPS with latitude: 51.732931, longitude: 8.735936 		
+CaService, 09:50:40,821 	 DEBUG 	 Received OBD2 with speed (m/s): 210.000000 		
+CaService, 09:50:40,859 	 DEBUG 	 Received GPS with latitude: 51.732932, longitude: 8.735936 		
+CaService, 09:50:40,872 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:40,872 	 INFO  	 deltaSpeed: 130.000000 		
+CaService, 09:50:40,872 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:40,872 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:40,872 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:40,872 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:40,872 	 DEBUG 	 CAM sent 		
+CaService, 09:50:40,872 	 DEBUG 	 CAM sent 		
+CaService, 09:50:40,960 	 DEBUG 	 Received GPS with latitude: 51.732933, longitude: 8.735936 		
+CaService, 09:50:40,972 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:41,061 	 DEBUG 	 Received GPS with latitude: 51.732934, longitude: 8.735936 		
+CaService, 09:50:41,072 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:41,162 	 DEBUG 	 Received GPS with latitude: 51.732936, longitude: 8.735936 		
+CaService, 09:50:41,262 	 DEBUG 	 Received GPS with latitude: 51.732936, longitude: 8.735936 		
+CaService, 09:50:41,321 	 DEBUG 	 Received OBD2 with speed (m/s): 110.000000 		
+CaService, 09:50:41,363 	 DEBUG 	 Received GPS with latitude: 51.732938, longitude: 8.735936 		
+CaService, 09:50:41,373 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:41,373 	 INFO  	 deltaSpeed: 100.000000 		
+CaService, 09:50:41,373 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:41,373 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:41,373 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:41,373 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:41,373 	 DEBUG 	 CAM sent 		
+CaService, 09:50:41,373 	 DEBUG 	 CAM sent 		
+CaService, 09:50:41,463 	 DEBUG 	 Received GPS with latitude: 51.732938, longitude: 8.735936 		
+CaService, 09:50:41,473 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:41,565 	 DEBUG 	 Received GPS with latitude: 51.732939, longitude: 8.735936 		
+CaService, 09:50:41,573 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:41,667 	 DEBUG 	 Received GPS with latitude: 51.732940, longitude: 8.735936 		
+CaService, 09:50:41,673 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:41,767 	 DEBUG 	 Received GPS with latitude: 51.732941, longitude: 8.735936 		
+CaService, 09:50:41,822 	 DEBUG 	 Received OBD2 with speed (m/s): 300.000000 		
+CaService, 09:50:41,868 	 DEBUG 	 Received GPS with latitude: 51.732942, longitude: 8.735936 		
+CaService, 09:50:41,874 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:41,874 	 INFO  	 deltaSpeed: 190.000000 		
+CaService, 09:50:41,874 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:41,874 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:41,874 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:41,874 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:41,874 	 DEBUG 	 CAM sent 		
+CaService, 09:50:41,874 	 DEBUG 	 CAM sent 		
+CaService, 09:50:41,969 	 DEBUG 	 Received GPS with latitude: 51.732943, longitude: 8.735936 		
+CaService, 09:50:41,974 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,069 	 DEBUG 	 Received GPS with latitude: 51.732943, longitude: 8.735936 		
+CaService, 09:50:42,075 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,170 	 DEBUG 	 Received GPS with latitude: 51.732945, longitude: 8.735936 		
+CaService, 09:50:42,175 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,272 	 DEBUG 	 Received GPS with latitude: 51.732945, longitude: 8.735936 		
+CaService, 09:50:42,322 	 DEBUG 	 Received OBD2 with speed (m/s): 120.000000 		
+CaService, 09:50:42,372 	 DEBUG 	 Received GPS with latitude: 51.732945, longitude: 8.735936 		
+CaService, 09:50:42,375 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:42,375 	 INFO  	 deltaSpeed: 180.000000 		
+CaService, 09:50:42,375 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:42,375 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:42,375 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:42,375 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:42,375 	 DEBUG 	 CAM sent 		
+CaService, 09:50:42,375 	 DEBUG 	 CAM sent 		
+CaService, 09:50:42,472 	 DEBUG 	 Received GPS with latitude: 51.732946, longitude: 8.735936 		
+CaService, 09:50:42,475 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,573 	 DEBUG 	 Received GPS with latitude: 51.732946, longitude: 8.735936 		
+CaService, 09:50:42,575 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,674 	 DEBUG 	 Received GPS with latitude: 51.732946, longitude: 8.735936 		
+CaService, 09:50:42,675 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,774 	 DEBUG 	 Received GPS with latitude: 51.732946, longitude: 8.735936 		
+CaService, 09:50:42,776 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,823 	 DEBUG 	 Received OBD2 with speed (m/s): 150.000000 		
+CaService, 09:50:42,875 	 DEBUG 	 Received GPS with latitude: 51.732946, longitude: 8.735936 		
+CaService, 09:50:42,876 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,876 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:42,876 	 INFO  	 deltaSpeed: 30.000000 		
+CaService, 09:50:42,876 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:42,876 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:42,876 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:42,876 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:42,876 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:42,876 	 DEBUG 	 CAM sent 		
+CaService, 09:50:42,876 	 DEBUG 	 CAM sent 		
+CaService, 09:50:42,976 	 DEBUG 	 Received GPS with latitude: 51.732947, longitude: 8.735936 		
+CaService, 09:50:42,976 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:43,076 	 DEBUG 	 Received GPS with latitude: 51.732947, longitude: 8.735936 		
+CaService, 09:50:43,076 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:43,177 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:43,177 	 DEBUG 	 Received GPS with latitude: 51.732948, longitude: 8.735936 		
+CaService, 09:50:43,277 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:43,278 	 DEBUG 	 Received GPS with latitude: 51.732950, longitude: 8.735936 		
+CaService, 09:50:43,323 	 DEBUG 	 Received OBD2 with speed (m/s): 60.000000 		
+CaService, 09:50:43,377 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:43,377 	 INFO  	 deltaSpeed: 90.000000 		
+CaService, 09:50:43,377 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:43,378 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:43,378 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:43,378 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:43,378 	 DEBUG 	 CAM sent 		
+CaService, 09:50:43,378 	 DEBUG 	 CAM sent 		
+CaService, 09:50:43,379 	 DEBUG 	 Received GPS with latitude: 51.732951, longitude: 8.735936 		
+CaService, 09:50:43,478 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:43,480 	 DEBUG 	 Received GPS with latitude: 51.732953, longitude: 8.735936 		
+CaService, 09:50:43,578 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:43,580 	 DEBUG 	 Received GPS with latitude: 51.732955, longitude: 8.735936 		
+CaService, 09:50:43,682 	 DEBUG 	 Received GPS with latitude: 51.732957, longitude: 8.735936 		
+CaService, 09:50:43,783 	 DEBUG 	 Received GPS with latitude: 51.732961, longitude: 8.735936 		
+CaService, 09:50:43,824 	 DEBUG 	 Received OBD2 with speed (m/s): 100.000000 		
+CaService, 09:50:43,879 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:43,879 	 INFO  	 deltaSpeed: 40.000000 		
+CaService, 09:50:43,879 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:43,879 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:43,879 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:43,879 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:43,879 	 DEBUG 	 CAM sent 		
+CaService, 09:50:43,879 	 DEBUG 	 CAM sent 		
+CaService, 09:50:43,884 	 DEBUG 	 Received GPS with latitude: 51.732964, longitude: 8.735936 		
+CaService, 09:50:43,985 	 DEBUG 	 Received GPS with latitude: 51.732967, longitude: 8.735936 		
+CaService, 09:50:44,087 	 DEBUG 	 Received GPS with latitude: 51.732971, longitude: 8.735936 		
+CaService, 09:50:44,187 	 DEBUG 	 Received GPS with latitude: 51.732976, longitude: 8.735936 		
+CaService, 09:50:44,288 	 DEBUG 	 Received GPS with latitude: 51.732979, longitude: 8.735936 		
+CaService, 09:50:44,325 	 DEBUG 	 Received OBD2 with speed (m/s): 110.000000 		
+CaService, 09:50:44,379 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:44,380 	 INFO  	 deltaSpeed: 10.000000 		
+CaService, 09:50:44,380 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:44,380 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:44,380 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:44,380 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:44,380 	 DEBUG 	 CAM sent 		
+CaService, 09:50:44,380 	 DEBUG 	 CAM sent 		
+CaService, 09:50:44,388 	 DEBUG 	 Received GPS with latitude: 51.732985, longitude: 8.735936 		
+CaService, 09:50:44,489 	 DEBUG 	 Received GPS with latitude: 51.732989, longitude: 8.735936 		
+CaService, 09:50:44,589 	 DEBUG 	 Received GPS with latitude: 51.732993, longitude: 8.735936 		
+CaService, 09:50:44,690 	 DEBUG 	 Received GPS with latitude: 51.732997, longitude: 8.735936 		
+CaService, 09:50:44,790 	 DEBUG 	 Received GPS with latitude: 51.733001, longitude: 8.735936 		
+CaService, 09:50:44,825 	 DEBUG 	 Received OBD2 with speed (m/s): 40.000000 		
+CaService, 09:50:44,880 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:44,880 	 INFO  	 deltaSpeed: 70.000000 		
+CaService, 09:50:44,880 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:44,880 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:44,881 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:44,881 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:44,881 	 DEBUG 	 CAM sent 		
+CaService, 09:50:44,881 	 DEBUG 	 CAM sent 		
+CaService, 09:50:44,891 	 DEBUG 	 Received GPS with latitude: 51.733003, longitude: 8.735936 		
+CaService, 09:50:44,991 	 DEBUG 	 Received GPS with latitude: 51.733007, longitude: 8.735936 		
+CaService, 09:50:45,092 	 DEBUG 	 Received GPS with latitude: 51.733008, longitude: 8.735936 		
+CaService, 09:50:45,192 	 DEBUG 	 Received GPS with latitude: 51.733010, longitude: 8.735936 		
+CaService, 09:50:45,293 	 DEBUG 	 Received GPS with latitude: 51.733012, longitude: 8.735936 		
+CaService, 09:50:45,326 	 DEBUG 	 Received OBD2 with speed (m/s): 150.000000 		
+CaService, 09:50:45,381 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:45,381 	 INFO  	 deltaSpeed: 110.000000 		
+CaService, 09:50:45,381 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:45,381 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:45,381 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:45,381 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:45,381 	 DEBUG 	 CAM sent 		
+CaService, 09:50:45,381 	 DEBUG 	 CAM sent 		
+CaService, 09:50:45,394 	 DEBUG 	 Received GPS with latitude: 51.733016, longitude: 8.735936 		
+CaService, 09:50:45,494 	 DEBUG 	 Received GPS with latitude: 51.733018, longitude: 8.735936 		
+CaService, 09:50:45,596 	 DEBUG 	 Received GPS with latitude: 51.733021, longitude: 8.735936 		
+CaService, 09:50:45,697 	 DEBUG 	 Received GPS with latitude: 51.733023, longitude: 8.735936 		
+CaService, 09:50:45,797 	 DEBUG 	 Received GPS with latitude: 51.733027, longitude: 8.735936 		
+CaService, 09:50:45,827 	 DEBUG 	 Received OBD2 with speed (m/s): 210.000000 		
+CaService, 09:50:45,882 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:45,882 	 INFO  	 deltaSpeed: 60.000000 		
+CaService, 09:50:45,882 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:45,882 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:45,882 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:45,882 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:45,882 	 DEBUG 	 CAM sent 		
+CaService, 09:50:45,882 	 DEBUG 	 CAM sent 		
+CaService, 09:50:45,898 	 DEBUG 	 Received GPS with latitude: 51.733030, longitude: 8.735936 		
+CaService, 09:50:45,998 	 DEBUG 	 Received GPS with latitude: 51.733033, longitude: 8.735936 		
+CaService, 09:50:46,099 	 DEBUG 	 Received GPS with latitude: 51.733036, longitude: 8.735936 		
+CaService, 09:50:46,199 	 DEBUG 	 Received GPS with latitude: 51.733039, longitude: 8.735936 		
+CaService, 09:50:46,300 	 DEBUG 	 Received GPS with latitude: 51.733041, longitude: 8.735936 		
+CaService, 09:50:46,327 	 DEBUG 	 Received OBD2 with speed (m/s): 290.000000 		
+CaService, 09:50:46,382 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:46,383 	 INFO  	 deltaSpeed: 80.000000 		
+CaService, 09:50:46,383 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:46,383 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:46,383 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:46,383 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:46,383 	 DEBUG 	 CAM sent 		
+CaService, 09:50:46,383 	 DEBUG 	 CAM sent 		
+CaService, 09:50:46,401 	 DEBUG 	 Received GPS with latitude: 51.733043, longitude: 8.735936 		
+CaService, 09:50:46,483 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:46,501 	 DEBUG 	 Received GPS with latitude: 51.733045, longitude: 8.735936 		
+CaService, 09:50:46,602 	 DEBUG 	 Received GPS with latitude: 51.733047, longitude: 8.735936 		
+CaService, 09:50:46,702 	 DEBUG 	 Received GPS with latitude: 51.733049, longitude: 8.735936 		
+CaService, 09:50:46,803 	 DEBUG 	 Received GPS with latitude: 51.733050, longitude: 8.735936 		
+CaService, 09:50:46,828 	 DEBUG 	 Received OBD2 with speed (m/s): 360.000000 		
+CaService, 09:50:46,883 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:46,883 	 INFO  	 deltaSpeed: 70.000000 		
+CaService, 09:50:46,883 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:46,884 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:46,884 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:46,884 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:46,884 	 DEBUG 	 CAM sent 		
+CaService, 09:50:46,884 	 DEBUG 	 CAM sent 		
+CaService, 09:50:46,903 	 DEBUG 	 Received GPS with latitude: 51.733052, longitude: 8.735936 		
+CaService, 09:50:46,984 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:47,004 	 DEBUG 	 Received GPS with latitude: 51.733054, longitude: 8.735936 		
+CaService, 09:50:47,105 	 DEBUG 	 Received GPS with latitude: 51.733057, longitude: 8.735936 		
+CaService, 09:50:47,205 	 DEBUG 	 Received GPS with latitude: 51.733059, longitude: 8.735936 		
+CaService, 09:50:47,306 	 DEBUG 	 Received GPS with latitude: 51.733062, longitude: 8.735936 		
+CaService, 09:50:47,328 	 DEBUG 	 Received OBD2 with speed (m/s): 410.000000 		
+CaService, 09:50:47,384 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:47,384 	 INFO  	 deltaSpeed: 50.000000 		
+CaService, 09:50:47,384 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:47,384 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:47,384 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:47,384 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:47,384 	 DEBUG 	 CAM sent 		
+CaService, 09:50:47,384 	 DEBUG 	 CAM sent 		
+CaService, 09:50:47,407 	 DEBUG 	 Received GPS with latitude: 51.733066, longitude: 8.735936 		
+CaService, 09:50:47,508 	 DEBUG 	 Received GPS with latitude: 51.733068, longitude: 8.735936 		
+CaService, 09:50:47,608 	 DEBUG 	 Received GPS with latitude: 51.733072, longitude: 8.735936 		
+CaService, 09:50:47,709 	 DEBUG 	 Received GPS with latitude: 51.733075, longitude: 8.735936 		
+CaService, 09:50:47,810 	 DEBUG 	 Received GPS with latitude: 51.733079, longitude: 8.735936 		
+CaService, 09:50:47,829 	 DEBUG 	 Received OBD2 with speed (m/s): 330.000000 		
+CaService, 09:50:47,885 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:47,885 	 INFO  	 deltaSpeed: 80.000000 		
+CaService, 09:50:47,885 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:47,885 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:47,885 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:47,885 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:47,885 	 DEBUG 	 CAM sent 		
+CaService, 09:50:47,886 	 DEBUG 	 CAM sent 		
+CaService, 09:50:47,911 	 DEBUG 	 Received GPS with latitude: 51.733083, longitude: 8.735936 		
+CaService, 09:50:48,011 	 DEBUG 	 Received GPS with latitude: 51.733087, longitude: 8.735936 		
+CaService, 09:50:48,112 	 DEBUG 	 Received GPS with latitude: 51.733092, longitude: 8.735936 		
+CaService, 09:50:48,212 	 DEBUG 	 Received GPS with latitude: 51.733095, longitude: 8.735936 		
+CaService, 09:50:48,314 	 DEBUG 	 Received GPS with latitude: 51.733099, longitude: 8.735936 		
+CaService, 09:50:48,330 	 DEBUG 	 Received OBD2 with speed (m/s): 310.000000 		
+CaService, 09:50:48,386 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:48,386 	 INFO  	 deltaSpeed: 20.000000 		
+CaService, 09:50:48,386 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:48,386 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:48,386 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:48,386 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:48,386 	 DEBUG 	 CAM sent 		
+CaService, 09:50:48,386 	 DEBUG 	 CAM sent 		
+CaService, 09:50:48,415 	 DEBUG 	 Received GPS with latitude: 51.733103, longitude: 8.735936 		
+CaService, 09:50:48,515 	 DEBUG 	 Received GPS with latitude: 51.733108, longitude: 8.735936 		
+CaService, 09:50:48,616 	 DEBUG 	 Received GPS with latitude: 51.733113, longitude: 8.735936 		
+CaService, 09:50:48,717 	 DEBUG 	 Received GPS with latitude: 51.733118, longitude: 8.735936 		
+CaService, 09:50:48,817 	 DEBUG 	 Received GPS with latitude: 51.733123, longitude: 8.735936 		
+CaService, 09:50:48,830 	 DEBUG 	 Received OBD2 with speed (m/s): 460.000000 		
+CaService, 09:50:48,887 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:48,887 	 INFO  	 deltaSpeed: 150.000000 		
+CaService, 09:50:48,887 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:48,887 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:48,887 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:48,887 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:48,887 	 DEBUG 	 CAM sent 		
+CaService, 09:50:48,887 	 DEBUG 	 CAM sent 		
+CaService, 09:50:48,918 	 DEBUG 	 Received GPS with latitude: 51.733128, longitude: 8.735936 		
+CaService, 09:50:49,019 	 DEBUG 	 Received GPS with latitude: 51.733133, longitude: 8.735936 		
+CaService, 09:50:49,120 	 DEBUG 	 Received GPS with latitude: 51.733136, longitude: 8.735936 		
+CaService, 09:50:49,220 	 DEBUG 	 Received GPS with latitude: 51.733140, longitude: 8.735936 		
+CaService, 09:50:49,321 	 DEBUG 	 Received GPS with latitude: 51.733144, longitude: 8.735936 		
+CaService, 09:50:49,331 	 DEBUG 	 Received OBD2 with speed (m/s): 270.000000 		
+CaService, 09:50:49,388 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:49,388 	 INFO  	 deltaSpeed: 190.000000 		
+CaService, 09:50:49,388 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:49,388 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:49,388 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:49,388 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:49,388 	 DEBUG 	 CAM sent 		
+CaService, 09:50:49,388 	 DEBUG 	 CAM sent 		
+CaService, 09:50:49,422 	 DEBUG 	 Received GPS with latitude: 51.733149, longitude: 8.735936 		
+CaService, 09:50:49,522 	 DEBUG 	 Received GPS with latitude: 51.733153, longitude: 8.735936 		
+CaService, 09:50:49,623 	 DEBUG 	 Received GPS with latitude: 51.733157, longitude: 8.735936 		
+CaService, 09:50:49,723 	 DEBUG 	 Received GPS with latitude: 51.733161, longitude: 8.735936 		
+CaService, 09:50:49,824 	 DEBUG 	 Received GPS with latitude: 51.733163, longitude: 8.735936 		
+CaService, 09:50:49,831 	 DEBUG 	 Received OBD2 with speed (m/s): 300.000000 		
+CaService, 09:50:49,888 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:49,888 	 INFO  	 deltaSpeed: 30.000000 		
+CaService, 09:50:49,888 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:49,888 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:49,889 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:49,889 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:49,889 	 DEBUG 	 CAM sent 		
+CaService, 09:50:49,889 	 DEBUG 	 CAM sent 		
+CaService, 09:50:49,925 	 DEBUG 	 Received GPS with latitude: 51.733164, longitude: 8.735936 		
+CaService, 09:50:49,989 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:50,026 	 DEBUG 	 Received GPS with latitude: 51.733166, longitude: 8.735936 		
+CaService, 09:50:50,126 	 DEBUG 	 Received GPS with latitude: 51.733168, longitude: 8.735936 		
+CaService, 09:50:50,227 	 DEBUG 	 Received GPS with latitude: 51.733169, longitude: 8.735936 		
+CaService, 09:50:50,328 	 DEBUG 	 Received GPS with latitude: 51.733170, longitude: 8.735936 		
+CaService, 09:50:50,332 	 DEBUG 	 Received OBD2 with speed (m/s): 360.000000 		
+CaService, 09:50:50,389 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:50,389 	 INFO  	 deltaSpeed: 60.000000 		
+CaService, 09:50:50,389 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:50,389 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:50,389 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:50,389 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:50,389 	 DEBUG 	 CAM sent 		
+CaService, 09:50:50,390 	 DEBUG 	 CAM sent 		
+CaService, 09:50:50,429 	 DEBUG 	 Received GPS with latitude: 51.733171, longitude: 8.735936 		
+CaService, 09:50:50,490 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:50,529 	 DEBUG 	 Received GPS with latitude: 51.733172, longitude: 8.735936 		
+CaService, 09:50:50,590 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:50,630 	 DEBUG 	 Received GPS with latitude: 51.733172, longitude: 8.735936 		
+CaService, 09:50:50,690 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:50,730 	 DEBUG 	 Received GPS with latitude: 51.733172, longitude: 8.735936 		
+CaService, 09:50:50,790 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:50,831 	 DEBUG 	 Received GPS with latitude: 51.733172, longitude: 8.735936 		
+CaService, 09:50:50,832 	 DEBUG 	 Received OBD2 with speed (m/s): 400.000000 		
+CaService, 09:50:50,891 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:50,891 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:50,891 	 INFO  	 deltaSpeed: 40.000000 		
+CaService, 09:50:50,891 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:50,891 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:50,891 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:50,891 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:50,891 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:50,891 	 DEBUG 	 CAM sent 		
+CaService, 09:50:50,891 	 DEBUG 	 CAM sent 		
+CaService, 09:50:50,931 	 DEBUG 	 Received GPS with latitude: 51.733172, longitude: 8.735936 		
+CaService, 09:50:50,991 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:51,032 	 DEBUG 	 Received GPS with latitude: 51.733172, longitude: 8.735936 		
+CaService, 09:50:51,091 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:51,132 	 DEBUG 	 Received GPS with latitude: 51.733172, longitude: 8.735936 		
+CaService, 09:50:51,192 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:51,233 	 DEBUG 	 Received GPS with latitude: 51.733173, longitude: 8.735936 		
+CaService, 09:50:51,292 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:51,333 	 DEBUG 	 Received OBD2 with speed (m/s): 450.000000 		
+CaService, 09:50:51,334 	 DEBUG 	 Received GPS with latitude: 51.733174, longitude: 8.735936 		
+CaService, 09:50:51,392 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:51,392 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:51,392 	 INFO  	 deltaSpeed: 50.000000 		
+CaService, 09:50:51,392 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:51,392 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:51,393 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:51,393 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:51,393 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:51,393 	 DEBUG 	 CAM sent 		
+CaService, 09:50:51,393 	 DEBUG 	 CAM sent 		
+CaService, 09:50:51,435 	 DEBUG 	 Received GPS with latitude: 51.733175, longitude: 8.735936 		
+CaService, 09:50:51,495 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:51,536 	 DEBUG 	 Received GPS with latitude: 51.733177, longitude: 8.735936 		
+CaService, 09:50:51,637 	 DEBUG 	 Received GPS with latitude: 51.733180, longitude: 8.735936 		
+CaService, 09:50:51,738 	 DEBUG 	 Received GPS with latitude: 51.733181, longitude: 8.735936 		
+CaService, 09:50:51,834 	 DEBUG 	 Received OBD2 with speed (m/s): 670.000000 		
+CaService, 09:50:51,840 	 DEBUG 	 Received GPS with latitude: 51.733184, longitude: 8.735936 		
+CaService, 09:50:51,896 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:51,896 	 INFO  	 deltaSpeed: 220.000000 		
+CaService, 09:50:51,896 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:51,896 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:51,896 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:51,896 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:51,896 	 DEBUG 	 CAM sent 		
+CaService, 09:50:51,896 	 DEBUG 	 CAM sent 		
+CaService, 09:50:51,940 	 DEBUG 	 Received GPS with latitude: 51.733186, longitude: 8.735936 		
+CaService, 09:50:51,997 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:52,041 	 DEBUG 	 Received GPS with latitude: 51.733188, longitude: 8.735936 		
+CaService, 09:50:52,142 	 DEBUG 	 Received GPS with latitude: 51.733191, longitude: 8.735936 		
+CaService, 09:50:52,242 	 DEBUG 	 Received GPS with latitude: 51.733195, longitude: 8.735936 		
+CaService, 09:50:52,335 	 DEBUG 	 Received OBD2 with speed (m/s): 470.000000 		
+CaService, 09:50:52,343 	 DEBUG 	 Received GPS with latitude: 51.733198, longitude: 8.735936 		
+CaService, 09:50:52,398 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:52,398 	 INFO  	 deltaSpeed: 200.000000 		
+CaService, 09:50:52,399 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:52,399 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:52,399 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:52,399 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:52,400 	 DEBUG 	 CAM sent 		
+CaService, 09:50:52,400 	 DEBUG 	 CAM sent 		
+CaService, 09:50:52,444 	 DEBUG 	 Received GPS with latitude: 51.733202, longitude: 8.735936 		
+CaService, 09:50:52,544 	 DEBUG 	 Received GPS with latitude: 51.733208, longitude: 8.735936 		
+CaService, 09:50:52,645 	 DEBUG 	 Received GPS with latitude: 51.733211, longitude: 8.735936 		
+CaService, 09:50:52,745 	 DEBUG 	 Received GPS with latitude: 51.733215, longitude: 8.735936 		
+CaService, 09:50:52,836 	 DEBUG 	 Received OBD2 with speed (m/s): 460.000000 		
+CaService, 09:50:52,846 	 DEBUG 	 Received GPS with latitude: 51.733219, longitude: 8.735936 		
+CaService, 09:50:52,900 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:52,900 	 INFO  	 deltaSpeed: 10.000000 		
+CaService, 09:50:52,900 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:52,900 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:52,900 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:52,900 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:52,900 	 DEBUG 	 CAM sent 		
+CaService, 09:50:52,901 	 DEBUG 	 CAM sent 		
+CaService, 09:50:52,947 	 DEBUG 	 Received GPS with latitude: 51.733221, longitude: 8.735936 		
+CaService, 09:50:53,001 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:53,049 	 DEBUG 	 Received GPS with latitude: 51.733224, longitude: 8.735936 		
+CaService, 09:50:53,149 	 DEBUG 	 Received GPS with latitude: 51.733227, longitude: 8.735936 		
+CaService, 09:50:53,250 	 DEBUG 	 Received GPS with latitude: 51.733231, longitude: 8.735936 		
+CaService, 09:50:53,338 	 DEBUG 	 Received OBD2 with speed (m/s): 620.000000 		
+CaService, 09:50:53,351 	 DEBUG 	 Received GPS with latitude: 51.733235, longitude: 8.735936 		
+CaService, 09:50:53,401 	 DEBUG 	 camInfo sent 		
+CaService, 09:50:53,401 	 INFO  	 deltaSpeed: 160.000000 		
+CaService, 09:50:53,402 	 DEBUG 	 Generating CAM as per UPER 		
+CaService, 09:50:53,402 	 INFO  	 Encoded bytes: 327 		
+CaService, 09:50:53,402 	 DEBUG 	 Encoded CAM size: 41 		
+CaService, 09:50:53,402 	 INFO  	 Send new CAM to DCC and LDM
+ 		
+CaService, 09:50:53,402 	 DEBUG 	 CAM sent 		
+CaService, 09:50:53,402 	 DEBUG 	 CAM sent 		
+CaService, 09:50:53,451 	 DEBUG 	 Received GPS with latitude: 51.733237, longitude: 8.735936 		
+CaService, 09:50:53,503 	 DEBUG 	 Ignore heading: not moved more than 0.300000 meters. 		
+CaService, 09:50:53,552 	 DEBUG 	 Received GPS with latitude: 51.733240, longitude: 8.735936 		
